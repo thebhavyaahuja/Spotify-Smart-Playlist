@@ -2,7 +2,10 @@
 
 I find adding to playlist feature very tedious personally for new songs I listen to. Most of them can fit into predictable playlists. Sometimes I'm not even sure if that song I'm liking is already is in a good playlist or not.
 
-This codebase automatically sorts your newly liked Spotify songs into your existing playlists based on artist genres.
+This tool automatically sorts your newly liked Spotify songs into your existing playlists based on artist genres.
+
+![image](https://github.com/user-attachments/assets/0b51d9df-fa99-4083-8b30-37f5cd03edcc)
+
 
 ## Quick Setup
 
