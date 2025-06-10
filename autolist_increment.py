@@ -428,6 +428,18 @@ class AutoListIncremental:
             result["reason"] = f"Added to playlist (matched: {match['matched_genre']} → {match['rule_genre']})"
             result["playlist_id"] = playlist_id
             
+            # Get playlist name for better feedback
+            try:
+                playlist_url = f"{self.base_url}/playlists/{playlist_id}"
+                playlist_response = requests.get(playlist_url, headers=self.headers)
+                playlist_response.raise_for_status()
+                playlist_data = playlist_response.json()
+                playlist_name = playlist_data.get("name", "Unknown Playlist")
+                result["playlist_name"] = playlist_name
+                result["reason"] = f"Added to playlist '{playlist_name}' (matched: {match['matched_genre']} → {match['rule_genre']})"
+            except Exception as e:
+                result["playlist_name"] = "Unknown Playlist"
+            
             # Update stats
             matched_genre = match["rule_genre"]
             self.stats["genre_matches"][matched_genre] = self.stats["genre_matches"].get(matched_genre, 0) + 1

@@ -17794,10 +17794,132 @@
       "artists": [
         "Djo"
       ]
+    },
+    "6KuXb26rHuRy3ZDse1VRmx": {
+      "processed_at": "2025-06-10T08:03:27.661963",
+      "action": "skipped",
+      "playlist_id": null,
+      "reason": "No genres found",
+      "track_name": "Where This Flower Blooms (feat. Frank Ocean)",
+      "artists": [
+        "Tyler, The Creator",
+        "Frank Ocean"
+      ]
+    },
+    "0VF7YLIxSQKyNiFL3X6MmN": {
+      "processed_at": "2025-06-10T08:03:28.160258",
+      "action": "skipped",
+      "playlist_id": null,
+      "reason": "No genres found",
+      "track_name": "Stargazing",
+      "artists": [
+        "The Neighbourhood"
+      ]
+    },
+    "1wAfrQx3io0UXXRKJp1gYZ": {
+      "processed_at": "2025-06-10T08:03:29.204574",
+      "action": "sorted",
+      "playlist_id": "7HtpsyUOobxFVqPzuoIFvq",
+      "reason": "Added to playlist (matched: indian indie → indian indie)",
+      "track_name": "Gehra",
+      "artists": [
+        "Darzi"
+      ]
+    },
+    "1HNdxnWzK2YKW9tUPIL5qU": {
+      "processed_at": "2025-06-10T08:03:29.686806",
+      "action": "skipped",
+      "playlist_id": null,
+      "reason": "No rule match for genres: punk, pop punk",
+      "track_name": "Last Night on Earth",
+      "artists": [
+        "Green Day"
+      ]
+    },
+    "4kaLkst9lT3sQ5Crgxs3ic": {
+      "processed_at": "2025-06-10T08:06:09.894304",
+      "action": "sorted",
+      "playlist_id": "2t5LVRWiXHmdZFuZ3UGaPv",
+      "reason": "Added to playlist (matched: bollywood → bollywood)",
+      "track_name": "Pani Da Rang - Male Vocals",
+      "artists": [
+        "Ayushmann Khurrana",
+        "Rochak Kohli"
+      ]
+    },
+    "5q6Ue2SuMhMBxFPDP2VWXm": {
+      "processed_at": "2025-06-10T08:06:11.029417",
+      "action": "sorted",
+      "playlist_id": "7HtpsyUOobxFVqPzuoIFvq",
+      "reason": "Added to playlist (matched: indie → indian indie)",
+      "track_name": "Only Friend",
+      "artists": [
+        "Wallows"
+      ]
+    },
+    "1Ph96WpdjNlwD6iKRE2Xa3": {
+      "processed_at": "2025-06-10T08:06:11.490367",
+      "action": "skipped",
+      "playlist_id": null,
+      "reason": "No genres found",
+      "track_name": "More Than Friends",
+      "artists": [
+        "Aidan Bissett"
+      ]
+    },
+    "0nazxhxUy9Uc631ubxC26s": {
+      "processed_at": "2025-06-10T08:06:12.551470",
+      "action": "sorted",
+      "playlist_id": "7HtpsyUOobxFVqPzuoIFvq",
+      "reason": "Added to playlist (matched: indian indie → indian indie)",
+      "track_name": "Woh",
+      "artists": [
+        "Darzi"
+      ]
+    },
+    "48X4D1FYOShPz2VF3YdfCF": {
+      "processed_at": "2025-06-10T23:56:34.873391",
+      "action": "sorted",
+      "playlist_id": "14xhtsxw8yf3tOD6hkceHN",
+      "reason": "Added to playlist 'rock to deal with my anxiety' (matched: art rock → rock)",
+      "track_name": "House Of Cards",
+      "artists": [
+        "Radiohead"
+      ]
+    },
+    "1LzNfuep1bnAUR9skqdHCK": {
+      "processed_at": "2025-06-10T23:56:35.336443",
+      "action": "skipped",
+      "playlist_id": null,
+      "reason": "No rule match for genres: dream pop, shoegaze, slowcore",
+      "track_name": "Fade Into You",
+      "artists": [
+        "Mazzy Star"
+      ]
+    },
+    "4pwJ6OujVQL3IpCr8KeXIg": {
+      "processed_at": "2025-06-10T23:56:37.094013",
+      "action": "sorted",
+      "playlist_id": "4hAMkEYrtT6CaNs6IjnpUG",
+      "reason": "Added to playlist 'kura' (matched: bedroom pop → bedroom pop)",
+      "track_name": "Nobody New",
+      "artists": [
+        "The Marías"
+      ]
+    },
+    "1elQc2QcyuBkI8FUIbNvcy": {
+      "processed_at": "2025-06-10T23:56:38.987234",
+      "action": "sorted",
+      "playlist_id": "14xhtsxw8yf3tOD6hkceHN",
+      "reason": "Added to playlist 'rock to deal with my anxiety' (matched: art rock → rock)",
+      "track_name": "Sulk",
+      "artists": [
+        "Radiohead"
+      ]
     }
   },
-  "last_run": "2025-06-10T07:56:06.315411",
-  "total_runs": 3,
+  "last_run": "2025-06-10T23:56:39.187590",
+  "total_runs": 6,
   "start_date": null,
   "start_index": 1781
 }
