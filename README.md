@@ -71,3 +71,6 @@ Set up cron job for automatic processing:
 ```
 
 **Result**: New songs you like are automatically sorted into the right playlists without any manual work. yay!
+
+[TODO]
+Sorting based on song's actual audio characteristics. Using vectors and distance to find the best playlist match.
