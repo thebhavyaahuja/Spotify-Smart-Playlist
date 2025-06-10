@@ -1,6 +1,6 @@
 # Spotify-Smart-Playlist - Automatic Spotify Playlist Sorting
 
-I find adding to playlist feature very tedious personally for new songs I listen to. Most of them can fit into predictable playlists. Sometimes I'm not even sure if that song I'm liking is already is in a good playlist or not.
+I find adding to playlist feature very tedious personally for new songs I listen to. Most of them can fit into predictable playlists. Sometimes I'm not even sure if that song I'm liking is already is in the wanted(probable) playlist or not.
 
 This tool automatically sorts your newly liked Spotify songs into your existing playlists based on artist genres.
 
