@@ -1,3 +1,4 @@
+import os
 import base64
 import requests
 import urllib.parse
@@ -5,27 +6,12 @@ from typing import Optional
 
 class SpotifyAuth:
     def __init__(self, client_id: str, client_secret: str, redirect_uri: str = "http://127.0.0.1:8888/callback"):
-        """
-        Initialize Spotify authentication.
-        
-        Args:
-            client_id: Your Spotify app client ID
-            client_secret: Your Spotify app client secret
-            redirect_uri: Redirect URI (must match your app settings)
-        """
         self.client_id = client_id
         self.client_secret = client_secret
         self.redirect_uri = redirect_uri
-        # UPDATED: Added user-library-read scope for accessing liked songs
         self.scope = "playlist-read-private playlist-read-collaborative playlist-modify-public playlist-modify-private user-library-read"
     
     def get_auth_url(self) -> str:
-        """
-        Get the authorization URL for user consent.
-        
-        Returns:
-            Authorization URL
-        """
         params = {
             'client_id': self.client_id,
             'response_type': 'code',
@@ -33,21 +19,9 @@ class SpotifyAuth:
             'scope': self.scope,
             'show_dialog': 'true'
         }
-        
-        auth_url = f"https://accounts.spotify.com/authorize?{urllib.parse.urlencode(params)}"
-        return auth_url
+        return f"https://accounts.spotify.com/authorize?{urllib.parse.urlencode(params)}"
     
     def get_access_token(self, auth_code: str) -> Optional[str]:
-        """
-        Exchange authorization code for access token.
-        
-        Args:
-            auth_code: Authorization code from callback
-            
-        Returns:
-            Access token or None if failed
-        """
-        # Encode client credentials
         credentials = f"{self.client_id}:{self.client_secret}"
         encoded_credentials = base64.b64encode(credentials.encode()).decode()
         
@@ -65,18 +39,33 @@ class SpotifyAuth:
         try:
             response = requests.post('https://accounts.spotify.com/api/token', headers=headers, data=data)
             response.raise_for_status()
-            
-            token_data = response.json()
-            return token_data.get('access_token')
-            
+            return response.json().get('access_token')
         except requests.exceptions.RequestException as e:
             print(f"Error getting access token: {e}")
             return None
 
+def set_env_variable(access_token: str):
+    """
+    Writes the access token export line to the user's shell profile.
+    """
+    shell = os.environ.get("SHELL", "")
+    if "zsh" in shell:
+        profile = os.path.expanduser("~/.zshrc")
+    elif "bash" in shell:
+        profile = os.path.expanduser("~/.bashrc")
+    else:
+        profile = os.path.expanduser("~/.profile")
+    
+    export_line = f"export SPOTIFY_ACCESS_TOKEN='{access_token}'\n"
+    try:
+        with open(profile, "a") as f:
+            f.write(export_line)
+        print(f"\n✅ Environment variable added to {profile}")
+        print("Restart your terminal or run `source` on the file to activate it.")
+    except Exception as e:
+        print(f"⚠️ Failed to write environment variable to profile: {e}")
+
 def main():
-    """
-    Interactive token retrieval process.
-    """
     print("Spotify Access Token Helper")
     print("=" * 30)
     
@@ -99,9 +88,7 @@ def main():
         access_token = auth.get_access_token(auth_code)
         if access_token:
             print(f"\nAccess Token: {access_token}")
-            print("\nYou can now use this token with the playlist fetcher.")
-            print("Consider setting it as an environment variable:")
-            print(f"export SPOTIFY_ACCESS_TOKEN='{access_token}'")
+            set_env_variable(access_token)
         else:
             print("Failed to get access token.")
     else:
@@ -109,5 +96,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# ACCESS?: BQAKmxNpfQivzu2vXNXfSqkyDq1cLdcgSXdWstwf2TBBgw0TLOs0cgyLnUPkZcIylYEMbPu9v3IN5QqKIkbDf_cSyAYGKMaoqyPMLrrpOfPcVEHUOMu1UJbxMBDfPDvaxg95MiaYCK7Iv2AiqqM_j8IBMP3J0aE6d3_Zp2wXIRmstu2suK6yFQ5GlkA7IoqduuamYgKlopmwWAx5w9K1bgvfWMEhdCaeJqnlLyo1-ddE5UCLkeeHs4oQtjRTLw

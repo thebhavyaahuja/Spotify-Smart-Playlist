@@ -1,670 +1,175 @@
 {
   "playlist_analysis": {
-    "gym": {
-      "playlist_name": "gym",
-      "playlist_id": "4ThWgl3ZvRiGAg14Z7CKdW",
-      "track_count": 1,
-      "total_genres": 1,
+    "love/sad": {
+      "playlist_name": "love/sad",
+      "playlist_id": "4GlFOSETyB7uOPQRCyAvou",
+      "track_count": 15,
+      "total_genres": 4,
       "genre_counts": {
-        "k-pop": 1
-      },
-      "top_genres": [
-        [
-          "k-pop",
-          1
-        ]
-      ],
-      "artist_counts": {
-        "KATSEYE": 1
-      },
-      "top_artists": [
-        [
-          "KATSEYE",
-          1
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "Touch",
-          "artists": [
-            "KATSEYE"
-          ],
-          "genres": [
-            "k-pop"
-          ]
-        }
-      ]
-    },
-    "lifafa": {
-      "playlist_name": "lifafa",
-      "playlist_id": "7HtpsyUOobxFVqPzuoIFvq",
-      "track_count": 21,
-      "total_genres": 5,
-      "genre_counts": {
-        "indian indie": 25,
-        "hindi indie": 24,
-        "bhangra": 1,
-        "desi hip hop": 4,
-        "hindi hip hop": 2
-      },
-      "top_genres": [
-        [
-          "indian indie",
-          25
-        ],
-        [
-          "hindi indie",
-          24
-        ],
-        [
-          "desi hip hop",
-          4
-        ],
-        [
-          "hindi hip hop",
-          2
-        ],
-        [
-          "bhangra",
-          1
-        ]
-      ],
-      "artist_counts": {
-        "Lifafa": 14,
-        "The Tamaashbeens": 2,
-        "Hashback Hashish": 1,
-        "Donn Bhat": 1,
-        "Peter Cat Recording Co. (PCRC)": 1,
-        "Suryakant Sawhney": 1,
-        "Karan Singh": 1,
-        "Rohit Gupta": 1,
-        "Pankaj Sakha": 1,
-        "Darzi": 2,
-        "D80": 1,
-        "The Siege": 1,
-        "Natiq": 1,
-        "Swar": 1
-      },
-      "top_artists": [
-        [
-          "Lifafa",
-          14
-        ],
-        [
-          "The Tamaashbeens",
-          2
-        ],
-        [
-          "Darzi",
-          2
-        ],
-        [
-          "Hashback Hashish",
-          1
-        ],
-        [
-          "Donn Bhat",
-          1
-        ],
-        [
-          "Peter Cat Recording Co. (PCRC)",
-          1
-        ],
-        [
-          "Suryakant Sawhney",
-          1
-        ],
-        [
-          "Karan Singh",
-          1
-        ],
-        [
-          "Rohit Gupta",
-          1
-        ],
-        [
-          "Pankaj Sakha",
-          1
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "Jaago",
-          "artists": [
-            "Lifafa"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Lighter machis",
-          "artists": [
-            "The Tamaashbeens"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Wahin Ka Wahin",
-          "artists": [
-            "Lifafa"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Candy",
-          "artists": [
-            "Lifafa",
-            "Hashback Hashish"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Ishq",
-          "artists": [
-            "Donn Bhat"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Nikamma",
-          "artists": [
-            "Lifafa"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Bewafa Hai Ghadi",
-          "artists": [
-            "Lifafa"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "MJRH",
-          "artists": [
-            "Lifafa"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Jaanam",
-          "artists": [
-            "Peter Cat Recording Co. (PCRC)",
-            "Suryakant Sawhney"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Acche Din",
-          "artists": [
-            "Lifafa"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Mann Ki Baat",
-          "artists": [
-            "Lifafa"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Laash",
-          "artists": [
-            "Lifafa"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Tohfa",
-          "artists": [
-            "Lifafa",
-            "Karan Singh",
-            "Rohit Gupta",
-            "Pankaj Sakha"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie",
-            "bhangra"
-          ]
-        },
-        {
-          "name": "Din Raat",
-          "artists": [
-            "Lifafa"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Mere Saath",
-          "artists": [
-            "Lifafa"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Lata Ka Sapna",
-          "artists": [
-            "Darzi"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie",
-            "desi hip hop"
-          ]
-        },
-        {
-          "name": "Ek Nagma",
-          "artists": [
-            "Lifafa"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Koi toh miley ga",
-          "artists": [
-            "The Tamaashbeens"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Irradon",
-          "artists": [
-            "Lifafa",
-            "D80"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Rog",
-          "artists": [
-            "Darzi"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie",
-            "desi hip hop"
-          ]
-        },
-        {
-          "name": "Swar's Intro",
-          "artists": [
-            "The Siege",
-            "Natiq",
-            "Swar"
-          ],
-          "genres": [
-            "hindi hip hop",
-            "hindi indie",
-            "indian indie",
-            "desi hip hop"
-          ]
-        }
-      ]
-    },
-    "podcasts": {
-      "playlist_name": "podcasts",
-      "playlist_id": "6cSRZaWQbPpm504zlHf6bF",
-      "track_count": 3,
-      "total_genres": 0,
-      "genre_counts": {},
-      "top_genres": [],
-      "artist_counts": {
-        "null": 3
-      },
-      "top_artists": [
-        [
-          null,
-          3
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "#1038 - Billy Corgan",
-          "artists": [
-            null
-          ],
-          "genres": []
-        },
-        {
-          "name": "#1149 - Michael Scott Moore",
-          "artists": [
-            null
-          ],
-          "genres": []
-        },
-        {
-          "name": "#1240 - Forrest Galante",
-          "artists": [
-            null
-          ],
-          "genres": []
-        }
-      ]
-    },
-    "petrichor": {
-      "playlist_name": "petrichor",
-      "playlist_id": "7eKNDm7Z3Eeq2bkioV4Mba",
-      "track_count": 24,
-      "total_genres": 11,
-      "genre_counts": {
-        "indie": 4,
-        "lo-fi indie": 2,
+        "art pop": 1,
+        "pop": 1,
         "bedroom pop": 1,
-        "classic rock": 1,
-        "yacht rock": 1,
-        "soft rock": 1,
-        "indie rock": 1,
-        "shibuya-kei": 1,
-        "japanese indie": 1,
-        "shoegaze": 1,
-        "dream pop": 1
+        "dream pop": 3
       },
       "top_genres": [
         [
-          "indie",
-          4
+          "dream pop",
+          3
         ],
         [
-          "lo-fi indie",
-          2
+          "art pop",
+          1
+        ],
+        [
+          "pop",
+          1
         ],
         [
           "bedroom pop",
           1
-        ],
-        [
-          "classic rock",
-          1
-        ],
-        [
-          "yacht rock",
-          1
-        ],
-        [
-          "soft rock",
-          1
-        ],
-        [
-          "indie rock",
-          1
-        ],
-        [
-          "shibuya-kei",
-          1
-        ],
-        [
-          "japanese indie",
-          1
-        ],
-        [
-          "shoegaze",
-          1
         ]
       ],
       "artist_counts": {
-        "Djo": 1,
-        "Kenya Grace": 1,
-        "The Neighbourhood": 1,
-        "Beach Weather": 1,
-        "Richy Mitch & The Coal Miners": 1,
-        "The Drums": 1,
-        "Mac DeMarco": 1,
-        "girl in red": 1,
-        "Dominic Fike": 1,
-        "Steve Lacy": 2,
-        "Cage The Elephant": 2,
-        "Rainbow Kitten Surprise": 1,
-        "Dr. Dog": 1,
-        "Cults": 1,
-        "Fleetwood Mac": 1,
-        "Dayglow": 1,
-        "Lily Chou-Chou": 1,
-        "Cigarettes After Sex": 1,
-        "Surf Curse": 1,
-        "Current Joys": 1,
-        "Declan McKenna": 1,
-        "Her's": 1
+        "Taylor Swift": 1,
+        "Olivia Rodrigo": 1,
+        "Billie Eilish": 2,
+        "Sabrina Carpenter": 3,
+        "Chappell Roan": 1,
+        "Lady Gaga": 1,
+        "Bruno Mars": 1,
+        "sombr": 1,
+        "The Marías": 1,
+        "Cigarettes After Sex": 3,
+        "The 1975": 1
       },
       "top_artists": [
         [
-          "Steve Lacy",
+          "Sabrina Carpenter",
+          3
+        ],
+        [
+          "Cigarettes After Sex",
+          3
+        ],
+        [
+          "Billie Eilish",
           2
         ],
         [
-          "Cage The Elephant",
-          2
-        ],
-        [
-          "Djo",
+          "Taylor Swift",
           1
         ],
         [
-          "Kenya Grace",
+          "Olivia Rodrigo",
           1
         ],
         [
-          "The Neighbourhood",
+          "Chappell Roan",
           1
         ],
         [
-          "Beach Weather",
+          "Lady Gaga",
           1
         ],
         [
-          "Richy Mitch & The Coal Miners",
+          "Bruno Mars",
           1
         ],
         [
-          "The Drums",
+          "sombr",
           1
         ],
         [
-          "Mac DeMarco",
-          1
-        ],
-        [
-          "girl in red",
+          "The Marías",
           1
         ]
       ],
       "tracks": [
         {
-          "name": "End of Beginning",
+          "name": "Love Story (Taylor’s Version)",
           "artists": [
-            "Djo"
+            "Taylor Swift"
           ],
           "genres": []
         },
         {
-          "name": "Strangers",
+          "name": "happier",
           "artists": [
-            "Kenya Grace"
+            "Olivia Rodrigo"
           ],
           "genres": []
         },
         {
-          "name": "Sweater Weather",
+          "name": "BIRDS OF A FEATHER",
           "artists": [
-            "The Neighbourhood"
+            "Billie Eilish"
           ],
           "genres": []
         },
         {
-          "name": "Sex, Drugs, Etc.",
+          "name": "Please Please Please",
           "artists": [
-            "Beach Weather"
+            "Sabrina Carpenter"
           ],
           "genres": []
         },
         {
-          "name": "Evergreen",
+          "name": "Good Luck, Babe!",
           "artists": [
-            "Richy Mitch & The Coal Miners"
+            "Chappell Roan"
           ],
           "genres": []
         },
         {
-          "name": "Money",
+          "name": "Espresso",
           "artists": [
-            "The Drums"
+            "Sabrina Carpenter"
+          ],
+          "genres": []
+        },
+        {
+          "name": "Die With A Smile",
+          "artists": [
+            "Lady Gaga",
+            "Bruno Mars"
           ],
           "genres": [
-            "indie"
+            "pop",
+            "art pop"
           ]
         },
         {
-          "name": "My Kind of Woman",
+          "name": "Bed Chem",
           "artists": [
-            "Mac DeMarco"
+            "Sabrina Carpenter"
           ],
-          "genres": [
-            "lo-fi indie",
-            "indie"
-          ]
+          "genres": []
         },
         {
-          "name": "we fell in love in october",
+          "name": "WILDFLOWER",
           "artists": [
-            "girl in red"
+            "Billie Eilish"
+          ],
+          "genres": []
+        },
+        {
+          "name": "back to friends",
+          "artists": [
+            "sombr"
+          ],
+          "genres": []
+        },
+        {
+          "name": "No One Noticed",
+          "artists": [
+            "The Marías"
           ],
           "genres": [
             "bedroom pop"
           ]
         },
         {
-          "name": "Babydoll",
-          "artists": [
-            "Dominic Fike"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Bad Habit",
-          "artists": [
-            "Steve Lacy"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Dark Red",
-          "artists": [
-            "Steve Lacy"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Neon Pill",
-          "artists": [
-            "Cage The Elephant"
-          ],
-          "genres": []
-        },
-        {
-          "name": "It's Called: Freefall",
-          "artists": [
-            "Rainbow Kitten Surprise"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Where'd All the Time Go?",
-          "artists": [
-            "Dr. Dog"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Always Forever",
-          "artists": [
-            "Cults"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Everywhere - 2017 Remaster",
-          "artists": [
-            "Fleetwood Mac"
-          ],
-          "genres": [
-            "classic rock",
-            "yacht rock",
-            "soft rock"
-          ]
-        },
-        {
-          "name": "Cocoon",
-          "artists": [
-            "Dayglow"
-          ],
-          "genres": [
-            "indie rock"
-          ]
-        },
-        {
-          "name": "グライド",
-          "artists": [
-            "Lily Chou-Chou"
-          ],
-          "genres": [
-            "shoegaze",
-            "shibuya-kei",
-            "japanese indie"
-          ]
-        },
-        {
-          "name": "Holding you, Holding me",
+          "name": "Sweet",
           "artists": [
             "Cigarettes After Sex"
           ],
@@ -673,78 +178,54 @@
           ]
         },
         {
-          "name": "Disco",
+          "name": "Sunsetz",
           "artists": [
-            "Surf Curse"
+            "Cigarettes After Sex"
           ],
           "genres": [
-            "indie"
+            "dream pop"
           ]
         },
         {
-          "name": "Cigarette Daydreams",
+          "name": "Apocalypse",
           "artists": [
-            "Cage The Elephant"
+            "Cigarettes After Sex"
+          ],
+          "genres": [
+            "dream pop"
+          ]
+        },
+        {
+          "name": "About You",
+          "artists": [
+            "The 1975"
           ],
           "genres": []
-        },
-        {
-          "name": "Kids",
-          "artists": [
-            "Current Joys"
-          ],
-          "genres": [
-            "lo-fi indie"
-          ]
-        },
-        {
-          "name": "Brazil",
-          "artists": [
-            "Declan McKenna"
-          ],
-          "genres": []
-        },
-        {
-          "name": "What Once Was",
-          "artists": [
-            "Her's"
-          ],
-          "genres": [
-            "indie"
-          ]
         }
       ]
     },
-    "The Strokes Playlist": {
-      "playlist_name": "The Strokes Playlist",
-      "playlist_id": "6a6qvJtVVjwsV1nsVXB8t1",
-      "track_count": 37,
+    "pop": {
+      "playlist_name": "pop",
+      "playlist_id": "1d1WIZ9dgrTHpBarG6gBMg",
+      "track_count": 9,
       "total_genres": 7,
       "genre_counts": {
-        "garage rock": 35,
-        "indie rock": 35,
-        "alternative rock": 35,
-        "anti-folk": 1,
         "french house": 1,
         "electronic": 1,
-        "electro": 1
+        "electro": 1,
+        "soft pop": 2,
+        "pop": 2,
+        "edm": 1,
+        "moombahton": 1
       },
       "top_genres": [
         [
-          "garage rock",
-          35
+          "soft pop",
+          2
         ],
         [
-          "indie rock",
-          35
-        ],
-        [
-          "alternative rock",
-          35
-        ],
-        [
-          "anti-folk",
-          1
+          "pop",
+          2
         ],
         [
           "french house",
@@ -757,26 +238,43 @@
         [
           "electro",
           1
+        ],
+        [
+          "edm",
+          1
+        ],
+        [
+          "moombahton",
+          1
         ]
       ],
       "artist_counts": {
-        "The Strokes": 35,
-        "Regina Spektor": 1,
+        "The Weeknd": 1,
         "Daft Punk": 1,
-        "Julian Casablancas": 1,
-        "The Voidz": 2
+        "Charlie Puth": 2,
+        "The Chainsmokers": 1,
+        "Halsey": 1,
+        "DJ Snake": 1,
+        "Justin Bieber": 2,
+        "Marshmello": 1,
+        "Anne-Marie": 1,
+        "Major Lazer": 1,
+        "MØ": 1,
+        "Shawn Mendes": 1,
+        "ZAYN": 1,
+        "Taylor Swift": 1
       },
       "top_artists": [
         [
-          "The Strokes",
-          35
-        ],
-        [
-          "The Voidz",
+          "Charlie Puth",
           2
         ],
         [
-          "Regina Spektor",
+          "Justin Bieber",
+          2
+        ],
+        [
+          "The Weeknd",
           1
         ],
         [
@@ -784,13 +282,417 @@
           1
         ],
         [
-          "Julian Casablancas",
+          "The Chainsmokers",
+          1
+        ],
+        [
+          "Halsey",
+          1
+        ],
+        [
+          "DJ Snake",
+          1
+        ],
+        [
+          "Marshmello",
+          1
+        ],
+        [
+          "Anne-Marie",
+          1
+        ],
+        [
+          "Major Lazer",
           1
         ]
       ],
       "tracks": [
         {
-          "name": "Selfless",
+          "name": "Starboy",
+          "artists": [
+            "The Weeknd",
+            "Daft Punk"
+          ],
+          "genres": [
+            "french house",
+            "electro",
+            "electronic"
+          ]
+        },
+        {
+          "name": "Attention",
+          "artists": [
+            "Charlie Puth"
+          ],
+          "genres": [
+            "pop",
+            "soft pop"
+          ]
+        },
+        {
+          "name": "How Long",
+          "artists": [
+            "Charlie Puth"
+          ],
+          "genres": [
+            "pop",
+            "soft pop"
+          ]
+        },
+        {
+          "name": "Closer",
+          "artists": [
+            "The Chainsmokers",
+            "Halsey"
+          ],
+          "genres": []
+        },
+        {
+          "name": "Let Me Love You",
+          "artists": [
+            "DJ Snake",
+            "Justin Bieber"
+          ],
+          "genres": []
+        },
+        {
+          "name": "FRIENDS",
+          "artists": [
+            "Marshmello",
+            "Anne-Marie"
+          ],
+          "genres": [
+            "edm"
+          ]
+        },
+        {
+          "name": "Cold Water",
+          "artists": [
+            "Major Lazer",
+            "Justin Bieber",
+            "MØ"
+          ],
+          "genres": [
+            "moombahton"
+          ]
+        },
+        {
+          "name": "Stitches",
+          "artists": [
+            "Shawn Mendes"
+          ],
+          "genres": []
+        },
+        {
+          "name": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
+          "artists": [
+            "ZAYN",
+            "Taylor Swift"
+          ],
+          "genres": []
+        }
+      ]
+    },
+    "Hindi": {
+      "playlist_name": "Hindi",
+      "playlist_id": "0iD4rTu7W4w9sgyBaYBDco",
+      "track_count": 7,
+      "total_genres": 16,
+      "genre_counts": {
+        "hindi pop": 14,
+        "bollywood": 15,
+        "desi": 9,
+        "sufi": 8,
+        "qawwali": 1,
+        "bhajan": 1,
+        "devotional": 1,
+        "indian indie": 1,
+        "hindi indie": 1,
+        "bangla pop": 1,
+        "tamil pop": 2,
+        "kollywood": 2,
+        "tollywood": 1,
+        "telugu pop": 1,
+        "marathi pop": 1,
+        "ghazal": 1
+      },
+      "top_genres": [
+        [
+          "bollywood",
+          15
+        ],
+        [
+          "hindi pop",
+          14
+        ],
+        [
+          "desi",
+          9
+        ],
+        [
+          "sufi",
+          8
+        ],
+        [
+          "tamil pop",
+          2
+        ],
+        [
+          "kollywood",
+          2
+        ],
+        [
+          "qawwali",
+          1
+        ],
+        [
+          "bhajan",
+          1
+        ],
+        [
+          "devotional",
+          1
+        ],
+        [
+          "indian indie",
+          1
+        ]
+      ],
+      "artist_counts": {
+        "Gajendra Verma": 1,
+        "Atif Aslam": 1,
+        "Alisha Chinai": 1,
+        "Pritam": 2,
+        "Vishal Mishra": 1,
+        "Manoj Muntashir": 1,
+        "Anuv Jain": 1,
+        "Alka Yagnik": 1,
+        "Arijit Singh": 1,
+        "A.R. Rahman": 1,
+        "Chinmayi": 1,
+        "Murtuza Khan": 1,
+        "Qadir Khan": 1,
+        "Tochi Raina": 1,
+        "Rekha Bhardwaj": 1
+      },
+      "top_artists": [
+        [
+          "Pritam",
+          2
+        ],
+        [
+          "Gajendra Verma",
+          1
+        ],
+        [
+          "Atif Aslam",
+          1
+        ],
+        [
+          "Alisha Chinai",
+          1
+        ],
+        [
+          "Vishal Mishra",
+          1
+        ],
+        [
+          "Manoj Muntashir",
+          1
+        ],
+        [
+          "Anuv Jain",
+          1
+        ],
+        [
+          "Alka Yagnik",
+          1
+        ],
+        [
+          "Arijit Singh",
+          1
+        ],
+        [
+          "A.R. Rahman",
+          1
+        ]
+      ],
+      "tracks": [
+        {
+          "name": "Mann Mera",
+          "artists": [
+            "Gajendra Verma"
+          ],
+          "genres": [
+            "bollywood",
+            "hindi pop"
+          ]
+        },
+        {
+          "name": "Tera Hone Laga Hoon",
+          "artists": [
+            "Atif Aslam",
+            "Alisha Chinai",
+            "Pritam"
+          ],
+          "genres": [
+            "desi",
+            "hindi pop",
+            "sufi",
+            "qawwali",
+            "bollywood"
+          ]
+        },
+        {
+          "name": "Kaise Hua (From \"Kabir Singh\")",
+          "artists": [
+            "Vishal Mishra",
+            "Manoj Muntashir"
+          ],
+          "genres": [
+            "bollywood",
+            "hindi pop",
+            "bhajan",
+            "devotional"
+          ]
+        },
+        {
+          "name": "Husn",
+          "artists": [
+            "Anuv Jain"
+          ],
+          "genres": [
+            "hindi indie",
+            "indian indie",
+            "hindi pop"
+          ]
+        },
+        {
+          "name": "Agar Tum Saath Ho (From \"Tamasha\")",
+          "artists": [
+            "Alka Yagnik",
+            "Arijit Singh"
+          ],
+          "genres": [
+            "bollywood",
+            "hindi pop",
+            "desi",
+            "bangla pop"
+          ]
+        },
+        {
+          "name": "Tere Bina",
+          "artists": [
+            "A.R. Rahman",
+            "Chinmayi",
+            "Murtuza Khan",
+            "Qadir Khan"
+          ],
+          "genres": [
+            "desi",
+            "hindi pop",
+            "sufi",
+            "marathi pop",
+            "tollywood",
+            "kollywood",
+            "telugu pop",
+            "tamil pop",
+            "bollywood"
+          ]
+        },
+        {
+          "name": "Kabira",
+          "artists": [
+            "Pritam",
+            "Tochi Raina",
+            "Rekha Bhardwaj"
+          ],
+          "genres": [
+            "desi",
+            "hindi pop",
+            "sufi",
+            "bollywood",
+            "ghazal"
+          ]
+        }
+      ]
+    },
+    "rock": {
+      "playlist_name": "rock",
+      "playlist_id": "2uWmjvmewKd5iuWXyVfWTd",
+      "track_count": 10,
+      "total_genres": 7,
+      "genre_counts": {
+        "garage rock": 5,
+        "indie rock": 4,
+        "alternative rock": 7,
+        "indie": 3,
+        "lo-fi indie": 1,
+        "art rock": 3,
+        "neo-psychedelic": 1
+      },
+      "top_genres": [
+        [
+          "alternative rock",
+          7
+        ],
+        [
+          "garage rock",
+          5
+        ],
+        [
+          "indie rock",
+          4
+        ],
+        [
+          "indie",
+          3
+        ],
+        [
+          "art rock",
+          3
+        ],
+        [
+          "lo-fi indie",
+          1
+        ],
+        [
+          "neo-psychedelic",
+          1
+        ]
+      ],
+      "artist_counts": {
+        "The Strokes": 4,
+        "Mac DeMarco": 1,
+        "Radiohead": 3,
+        "Tame Impala": 1,
+        "Arctic Monkeys": 1
+      },
+      "top_artists": [
+        [
+          "The Strokes",
+          4
+        ],
+        [
+          "Radiohead",
+          3
+        ],
+        [
+          "Mac DeMarco",
+          1
+        ],
+        [
+          "Tame Impala",
+          1
+        ],
+        [
+          "Arctic Monkeys",
+          1
+        ]
+      ],
+      "tracks": [
+        {
+          "name": "The Adults Are Talking",
           "artists": [
             "The Strokes"
           ],
@@ -812,117 +714,47 @@
           ]
         },
         {
-          "name": "Reptilia",
+          "name": "Freaking Out the Neighborhood",
           "artists": [
-            "The Strokes"
+            "Mac DeMarco"
           ],
           "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
+            "lo-fi indie",
+            "indie"
           ]
         },
         {
-          "name": "Someday",
+          "name": "15 Step",
           "artists": [
-            "The Strokes"
+            "Radiohead"
           ],
           "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
+            "art rock",
+            "alternative rock"
           ]
         },
         {
-          "name": "Last Nite",
+          "name": "Bodysnatchers",
           "artists": [
-            "The Strokes"
+            "Radiohead"
           ],
           "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
+            "art rock",
+            "alternative rock"
           ]
         },
         {
-          "name": "Under Cover of Darkness",
+          "name": "Just",
           "artists": [
-            "The Strokes"
+            "Radiohead"
           ],
           "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Machu Picchu",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Heart In a Cage",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Razorblade",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "You Only Live Once",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
+            "art rock",
+            "alternative rock"
           ]
         },
         {
           "name": "12:51",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Why Are Sundays So Depressing",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Life Is Simple in the Moonlight",
           "artists": [
             "The Strokes"
           ],
@@ -944,2334 +776,7 @@
           ]
         },
         {
-          "name": "Welcome To Japan",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Hard To Explain",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Barely Legal",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "What Ever Happened?",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "The Modern Age",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "I Can't Win",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Is This It",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Call It Fate, Call It Karma",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Call Me Back",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Brooklyn Bridge To Chorus",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "80's Comedown Machine",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Happy Ending",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Juicebox",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "One Way Trigger",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Hawaii - Juicebox B-Side",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Trying Your Luck",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "New York City Cops",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Bad Decisions",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Not The Same Anymore",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Chances",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Modern Girls & Old Fashion Men - Reptilia B-Side",
-          "artists": [
-            "The Strokes",
-            "Regina Spektor"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "anti-folk",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
-          "artists": [
-            "Daft Punk",
-            "Julian Casablancas",
-            "The Voidz"
-          ],
-          "genres": [
-            "french house",
-            "electro",
-            "electronic"
-          ]
-        },
-        {
-          "name": "Human Sadness",
-          "artists": [
-            "The Voidz"
-          ],
-          "genres": []
-        }
-      ]
-    },
-    "chinki shit": {
-      "playlist_name": "chinki shit",
-      "playlist_id": "2IFFgUtRfED7YDrYg2PHTI",
-      "track_count": 24,
-      "total_genres": 8,
-      "genre_counts": {
-        "j-pop": 16,
-        "j-r&b": 1,
-        "anime": 11,
-        "japanese indie": 7,
-        "j-rock": 8,
-        "city pop": 2,
-        "kayokyoku": 2,
-        "k-pop": 4
-      },
-      "top_genres": [
-        [
-          "j-pop",
-          16
-        ],
-        [
-          "anime",
-          11
-        ],
-        [
-          "j-rock",
-          8
-        ],
-        [
-          "japanese indie",
-          7
-        ],
-        [
-          "k-pop",
-          4
-        ],
-        [
-          "city pop",
-          2
-        ],
-        [
-          "kayokyoku",
-          2
-        ],
-        [
-          "j-r&b",
-          1
-        ]
-      ],
-      "artist_counts": {
-        "kobasolo": 1,
-        "Naho": 1,
-        "Hikaru Utada": 1,
-        "YOASOBI": 2,
-        "Vaundy": 3,
-        "カネコアヤノ": 1,
-        "ヨルシカ": 2,
-        "Akano": 1,
-        "Mariya Takeuchi": 1,
-        "the pillows": 1,
-        "UVERworld": 1,
-        "BTS": 1,
-        "Halsey": 1,
-        "TAEMIN": 1,
-        "BLACKPINK": 1,
-        "FIFTY FIFTY": 1,
-        "Tetsuya Takeda": 1,
-        "RADWIMPS": 1,
-        "Toaka": 1,
-        "KANA-BOON": 1,
-        "Kingo Hamada": 1,
-        "Fujii Kaze": 1,
-        "Kenshi Yonezu": 1
-      },
-      "top_artists": [
-        [
-          "Vaundy",
-          3
-        ],
-        [
-          "YOASOBI",
-          2
-        ],
-        [
-          "ヨルシカ",
-          2
-        ],
-        [
-          "kobasolo",
-          1
-        ],
-        [
-          "Naho",
-          1
-        ],
-        [
-          "Hikaru Utada",
-          1
-        ],
-        [
-          "カネコアヤノ",
-          1
-        ],
-        [
-          "Akano",
-          1
-        ],
-        [
-          "Mariya Takeuchi",
-          1
-        ],
-        [
-          "the pillows",
-          1
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "Chiisana Koi no Uta feat.Naho",
-          "artists": [
-            "kobasolo",
-            "Naho"
-          ],
-          "genres": [
-            "j-pop"
-          ]
-        },
-        {
-          "name": "One Last Kiss",
-          "artists": [
-            "Hikaru Utada"
-          ],
-          "genres": [
-            "j-pop",
-            "anime",
-            "j-r&b"
-          ]
-        },
-        {
-          "name": "たぶん",
-          "artists": [
-            "YOASOBI"
-          ],
-          "genres": [
-            "j-pop",
-            "anime"
-          ]
-        },
-        {
-          "name": "踊り子",
-          "artists": [
-            "Vaundy"
-          ],
-          "genres": [
-            "j-pop",
-            "japanese indie"
-          ]
-        },
-        {
-          "name": "ロマンス宣言",
-          "artists": [
-            "カネコアヤノ"
-          ],
-          "genres": [
-            "j-rock",
-            "japanese indie"
-          ]
-        },
-        {
-          "name": "ただ君に晴れ",
-          "artists": [
-            "ヨルシカ"
-          ],
-          "genres": [
-            "j-pop",
-            "j-rock",
-            "anime",
-            "japanese indie"
-          ]
-        },
-        {
-          "name": "Blue Bird (From \"Naruto Shippuden\")",
-          "artists": [
-            "Akano"
-          ],
-          "genres": [
-            "anime"
-          ]
-        },
-        {
-          "name": "Plastic Love",
-          "artists": [
-            "Mariya Takeuchi"
-          ],
-          "genres": [
-            "j-pop",
-            "city pop",
-            "kayokyoku"
-          ]
-        },
-        {
-          "name": "タイムパラドックス",
-          "artists": [
-            "Vaundy"
-          ],
-          "genres": [
-            "j-pop",
-            "japanese indie"
-          ]
-        },
-        {
-          "name": "Ride on shooting star",
-          "artists": [
-            "the pillows"
-          ],
-          "genres": [
-            "j-rock",
-            "anime",
-            "japanese indie"
-          ]
-        },
-        {
-          "name": "ODD FUTURE",
-          "artists": [
-            "UVERworld"
-          ],
-          "genres": [
-            "j-rock",
-            "j-pop",
-            "anime"
-          ]
-        },
-        {
-          "name": "Kaiju no Hanauta",
-          "artists": [
-            "Vaundy"
-          ],
-          "genres": [
-            "j-pop",
-            "japanese indie"
-          ]
-        },
-        {
-          "name": "Boy With Luv (feat. Halsey)",
-          "artists": [
-            "BTS",
-            "Halsey"
-          ],
-          "genres": [
-            "k-pop"
-          ]
-        },
-        {
-          "name": "MOVE",
-          "artists": [
-            "TAEMIN"
-          ],
-          "genres": [
-            "k-pop"
-          ]
-        },
-        {
-          "name": "WHISTLE",
-          "artists": [
-            "BLACKPINK"
-          ],
-          "genres": [
-            "k-pop"
-          ]
-        },
-        {
-          "name": "Cupid",
-          "artists": [
-            "FIFTY FIFTY"
-          ],
-          "genres": [
-            "k-pop"
-          ]
-        },
-        {
-          "name": "少年期",
-          "artists": [
-            "Tetsuya Takeda"
-          ],
-          "genres": [
-            "kayokyoku"
-          ]
-        },
-        {
-          "name": "夜に駆ける",
-          "artists": [
-            "YOASOBI"
-          ],
-          "genres": [
-            "j-pop",
-            "anime"
-          ]
-        },
-        {
-          "name": "Suzume",
-          "artists": [
-            "RADWIMPS",
-            "Toaka"
-          ],
-          "genres": [
-            "j-pop",
-            "j-rock",
-            "anime"
-          ]
-        },
-        {
-          "name": "だから僕は音楽を辞めた",
-          "artists": [
-            "ヨルシカ"
-          ],
-          "genres": [
-            "j-pop",
-            "j-rock",
-            "anime",
-            "japanese indie"
-          ]
-        },
-        {
-          "name": "シルエット",
-          "artists": [
-            "KANA-BOON"
-          ],
-          "genres": [
-            "j-rock",
-            "j-pop",
-            "anime"
-          ]
-        },
-        {
-          "name": "街のドルフィン",
-          "artists": [
-            "Kingo Hamada"
-          ],
-          "genres": [
-            "city pop"
-          ]
-        },
-        {
-          "name": "きらり",
-          "artists": [
-            "Fujii Kaze"
-          ],
-          "genres": [
-            "j-pop"
-          ]
-        },
-        {
-          "name": "ピースサイン - Peace Sign",
-          "artists": [
-            "Kenshi Yonezu"
-          ],
-          "genres": [
-            "j-pop",
-            "j-rock",
-            "anime"
-          ]
-        }
-      ]
-    },
-    "butterflies": {
-      "playlist_name": "butterflies",
-      "playlist_id": "2JEgShGTGAIl7dt4r6OyTT",
-      "track_count": 18,
-      "total_genres": 8,
-      "genre_counts": {
-        "indian indie": 1,
-        "hindi indie": 1,
-        "indie": 1,
-        "garage rock": 1,
-        "musicals": 1,
-        "baroque pop": 2,
-        "dream pop": 1,
-        "neoclassical": 1
-      },
-      "top_genres": [
-        [
-          "baroque pop",
-          2
-        ],
-        [
-          "indian indie",
-          1
-        ],
-        [
-          "hindi indie",
-          1
-        ],
-        [
-          "indie",
-          1
-        ],
-        [
-          "garage rock",
-          1
-        ],
-        [
-          "musicals",
-          1
-        ],
-        [
-          "dream pop",
-          1
-        ],
-        [
-          "neoclassical",
-          1
-        ]
-      ],
-      "artist_counts": {
-        "Patrick Watson": 3,
-        "Scarlett Johansson": 1,
-        "Joaquin Phoenix": 1,
-        "Justin Hurwitz": 1,
-        "New West": 1,
-        "Prateek Kuhad": 1,
-        "Arctic Monkeys": 1,
-        "Ryan Gosling": 1,
-        "Emma Stone": 1,
-        "Sufjan Stevens": 2,
-        "TV Girl": 1,
-        "Lord Huron": 2,
-        "The Macarons Project": 1,
-        "Cigarettes After Sex": 1,
-        "Alexis Ffrench": 1,
-        "Delaney Bailey": 1
-      },
-      "top_artists": [
-        [
-          "Patrick Watson",
-          3
-        ],
-        [
-          "Sufjan Stevens",
-          2
-        ],
-        [
-          "Lord Huron",
-          2
-        ],
-        [
-          "Scarlett Johansson",
-          1
-        ],
-        [
-          "Joaquin Phoenix",
-          1
-        ],
-        [
-          "Justin Hurwitz",
-          1
-        ],
-        [
-          "New West",
-          1
-        ],
-        [
-          "Prateek Kuhad",
-          1
-        ],
-        [
-          "Arctic Monkeys",
-          1
-        ],
-        [
-          "Ryan Gosling",
-          1
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "Sit Down Beside Me",
-          "artists": [
-            "Patrick Watson"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Je te laisserai des mots",
-          "artists": [
-            "Patrick Watson"
-          ],
-          "genres": []
-        },
-        {
-          "name": "The Moon Song - Film Version",
-          "artists": [
-            "Scarlett Johansson",
-            "Joaquin Phoenix"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Mia & Sebastian’s Theme (Late For The Date)",
-          "artists": [
-            "Justin Hurwitz"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Those Eyes",
-          "artists": [
-            "New West"
-          ],
-          "genres": []
-        },
-        {
-          "name": "cold/mess",
-          "artists": [
-            "Prateek Kuhad"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Mad Sounds",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "City Of Stars - From \"La La Land\" Soundtrack",
-          "artists": [
-            "Ryan Gosling",
-            "Emma Stone"
-          ],
-          "genres": [
-            "musicals"
-          ]
-        },
-        {
-          "name": "Mystery of Love",
-          "artists": [
-            "Sufjan Stevens"
-          ],
-          "genres": [
-            "baroque pop"
-          ]
-        },
-        {
-          "name": "Lovers Rock",
-          "artists": [
-            "TV Girl"
-          ],
-          "genres": []
-        },
-        {
-          "name": "The Night We Met",
-          "artists": [
-            "Lord Huron"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Fly Me to the Moon",
-          "artists": [
-            "The Macarons Project"
-          ],
-          "genres": []
-        },
-        {
-          "name": "To Be Alone With You",
-          "artists": [
-            "Sufjan Stevens"
-          ],
-          "genres": [
-            "baroque pop"
-          ]
-        },
-        {
-          "name": "Apocalypse",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "genres": [
-            "dream pop"
-          ]
-        },
-        {
-          "name": "Bluebird",
-          "artists": [
-            "Alexis Ffrench"
-          ],
-          "genres": [
-            "neoclassical"
-          ]
-        },
-        {
-          "name": "Lost With You",
-          "artists": [
-            "Patrick Watson"
-          ],
-          "genres": []
-        },
-        {
-          "name": "j's lullaby (darlin' i'd wait for you)",
-          "artists": [
-            "Delaney Bailey"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Meet Me In The Woods",
-          "artists": [
-            "Lord Huron"
-          ],
-          "genres": []
-        }
-      ]
-    },
-    "take me to the zoo": {
-      "playlist_name": "take me to the zoo",
-      "playlist_id": "3YWqyAd7HvJft41VEgL0PX",
-      "track_count": 23,
-      "total_genres": 10,
-      "genre_counts": {
-        "bedroom pop": 1,
-        "indie soul": 1,
-        "indie rock": 3,
-        "city pop": 1,
-        "singer-songwriter": 1,
-        "lo-fi": 1,
-        "lo-fi beats": 1,
-        "jazz house": 1,
-        "lo-fi hip hop": 1,
-        "jazz beats": 1
-      },
-      "top_genres": [
-        [
-          "indie rock",
-          3
-        ],
-        [
-          "bedroom pop",
-          1
-        ],
-        [
-          "indie soul",
-          1
-        ],
-        [
-          "city pop",
-          1
-        ],
-        [
-          "singer-songwriter",
-          1
-        ],
-        [
-          "lo-fi",
-          1
-        ],
-        [
-          "lo-fi beats",
-          1
-        ],
-        [
-          "jazz house",
-          1
-        ],
-        [
-          "lo-fi hip hop",
-          1
-        ],
-        [
-          "jazz beats",
-          1
-        ]
-      ],
-      "artist_counts": {
-        "Mina Okabe": 1,
-        "Go-Jo": 2,
-        "A-Wall": 1,
-        "Johnny Stimson": 1,
-        "Parcels": 1,
-        "BoyWithUke": 1,
-        "Dayglow": 3,
-        "Harry Styles": 3,
-        "Ginger Root": 1,
-        "Sexy Pigeon": 1,
-        "Jeremy Zucker": 1,
-        "Whethan": 1,
-        "Mascolo": 1,
-        "John Mayer": 1,
-        "Tai Verdes": 2,
-        "Saib": 1,
-        "Verzache": 1,
-        "Swell": 1,
-        "Fiji Blue": 1
-      },
-      "top_artists": [
-        [
-          "Dayglow",
-          3
-        ],
-        [
-          "Harry Styles",
-          3
-        ],
-        [
-          "Go-Jo",
-          2
-        ],
-        [
-          "Tai Verdes",
-          2
-        ],
-        [
-          "Mina Okabe",
-          1
-        ],
-        [
-          "A-Wall",
-          1
-        ],
-        [
-          "Johnny Stimson",
-          1
-        ],
-        [
-          "Parcels",
-          1
-        ],
-        [
-          "BoyWithUke",
-          1
-        ],
-        [
-          "Ginger Root",
-          1
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "Every Second",
-          "artists": [
-            "Mina Okabe"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Mrs. Hollywood",
-          "artists": [
-            "Go-Jo"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Loverboy",
-          "artists": [
-            "A-Wall"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "IDWLY",
-          "artists": [
-            "Johnny Stimson"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Tieduprightnow",
-          "artists": [
-            "Parcels"
-          ],
-          "genres": [
-            "indie soul"
-          ]
-        },
-        {
-          "name": "Loverman",
-          "artists": [
-            "Go-Jo"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Before I Die",
-          "artists": [
-            "BoyWithUke"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Hot Rod",
-          "artists": [
-            "Dayglow"
-          ],
-          "genres": [
-            "indie rock"
-          ]
-        },
-        {
-          "name": "Golden",
-          "artists": [
-            "Harry Styles"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Le château",
-          "artists": [
-            "Ginger Root"
-          ],
-          "genres": [
-            "city pop"
-          ]
-        },
-        {
-          "name": "Avocado Toast",
-          "artists": [
-            "Sexy Pigeon"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Late Night Talking",
-          "artists": [
-            "Harry Styles"
-          ],
-          "genres": []
-        },
-        {
-          "name": "supercuts",
-          "artists": [
-            "Jeremy Zucker"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Adore You",
-          "artists": [
-            "Harry Styles"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Good Nights (feat. Mascolo)",
-          "artists": [
-            "Whethan",
-            "Mascolo"
-          ],
-          "genres": []
-        },
-        {
-          "name": "New Light",
-          "artists": [
-            "John Mayer"
-          ],
-          "genres": [
-            "singer-songwriter"
-          ]
-        },
-        {
-          "name": "last day on earth",
-          "artists": [
-            "Tai Verdes"
-          ],
-          "genres": []
-        },
-        {
-          "name": "sheluvme",
-          "artists": [
-            "Tai Verdes"
-          ],
-          "genres": []
-        },
-        {
-          "name": "in your arms",
-          "artists": [
-            "Saib"
-          ],
-          "genres": [
-            "lo-fi hip hop",
-            "jazz beats",
-            "lo-fi beats",
-            "jazz house",
-            "lo-fi"
-          ]
-        },
-        {
-          "name": "Waiting for You",
-          "artists": [
-            "Verzache",
-            "Swell"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Butterflies",
-          "artists": [
-            "Fiji Blue"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Close To You",
-          "artists": [
-            "Dayglow"
-          ],
-          "genres": [
-            "indie rock"
-          ]
-        },
-        {
-          "name": "Can I Call You Tonight?",
-          "artists": [
-            "Dayglow"
-          ],
-          "genres": [
-            "indie rock"
-          ]
-        }
-      ]
-    },
-    "rock to deal with my anxiety": {
-      "playlist_name": "rock to deal with my anxiety",
-      "playlist_id": "14xhtsxw8yf3tOD6hkceHN",
-      "track_count": 100,
-      "total_genres": 43,
-      "genre_counts": {
-        "rock": 22,
-        "hard rock": 5,
-        "aor": 2,
-        "metal": 2,
-        "heavy metal": 2,
-        "indie": 15,
-        "art rock": 6,
-        "blues rock": 3,
-        "garage rock": 25,
-        "modern blues": 2,
-        "classic rock": 9,
-        "rock and roll": 1,
-        "punk": 5,
-        "pop punk": 6,
-        "glam metal": 2,
-        "grunge": 6,
-        "alternative rock": 31,
-        "indie rock": 18,
-        "post-grunge": 4,
-        "glam rock": 1,
-        "funk rock": 3,
-        "new wave": 3,
-        "post-punk": 3,
-        "gothic rock": 3,
-        "darkwave": 3,
-        "motown": 1,
-        "northern soul": 1,
-        "southern gothic": 1,
-        "yacht rock": 1,
-        "soft rock": 1,
-        "psychedelic rock": 3,
-        "britpop": 2,
-        "madchester": 3,
-        "progressive rock": 2,
-        "stoner rock": 3,
-        "midwest emo": 7,
-        "shoegaze": 2,
-        "nu metal": 1,
-        "alternative metal": 1,
-        "rap metal": 1,
-        "cold wave": 1,
-        "neo-psychedelic": 1,
-        "emo": 1
-      },
-      "top_genres": [
-        [
-          "alternative rock",
-          31
-        ],
-        [
-          "garage rock",
-          25
-        ],
-        [
-          "rock",
-          22
-        ],
-        [
-          "indie rock",
-          18
-        ],
-        [
-          "indie",
-          15
-        ],
-        [
-          "classic rock",
-          9
-        ],
-        [
-          "midwest emo",
-          7
-        ],
-        [
-          "art rock",
-          6
-        ],
-        [
-          "pop punk",
-          6
-        ],
-        [
-          "grunge",
-          6
-        ]
-      ],
-      "artist_counts": {
-        "Joan Jett & the Blackhearts": 1,
-        "Rainbow": 1,
-        "Surf Curse": 1,
-        "Electric Light Orchestra": 1,
-        "The Black Keys": 2,
-        "AC/DC": 1,
-        "Green Day": 4,
-        "Guns N' Roses": 1,
-        "Nirvana": 2,
-        "Pixies": 2,
-        "Måneskin": 2,
-        "Arctic Monkeys": 11,
-        "The Strokes": 11,
-        "Soundgarden": 1,
-        "Heart": 1,
-        "The White Stripes": 1,
-        "Queen": 1,
-        "Cage The Elephant": 8,
-        "Red Hot Chili Peppers": 3,
-        "Radiohead": 3,
-        "Foster The People": 1,
-        "The Cure": 2,
-        "The Cranberries": 1,
-        "The Contours": 1,
-        "Alison Mosshart": 1,
-        "Harry Styles": 1,
-        "Eagles": 1,
-        "Weezer": 2,
-        "The Smashing Pumpkins": 1,
-        "Foo Fighters": 3,
-        "Jet": 1,
-        "The Beatles": 1,
-        "The Killers": 1,
-        "The Rolling Stones": 1,
-        "Blur": 1,
-        "Oasis": 1,
-        "Pink Floyd": 2,
-        "Queens of the Stone Age": 3,
-        "Basement": 1,
-        "Car Seat Headrest": 6,
-        "Franz Ferdinand": 1,
-        "Deftones": 1,
-        "Joy Division": 1,
-        "Twenty One Pilots": 1,
-        "Ozzy Osbourne": 1,
-        "Two Door Cinema Club": 1,
-        "Tame Impala": 1,
-        "All Time Low": 1,
-        "Gorillaz": 1,
-        "Wallows": 1,
-        "The Voidz": 1
-      },
-      "top_artists": [
-        [
-          "Arctic Monkeys",
-          11
-        ],
-        [
-          "The Strokes",
-          11
-        ],
-        [
-          "Cage The Elephant",
-          8
-        ],
-        [
-          "Car Seat Headrest",
-          6
-        ],
-        [
-          "Green Day",
-          4
-        ],
-        [
-          "Red Hot Chili Peppers",
-          3
-        ],
-        [
-          "Radiohead",
-          3
-        ],
-        [
-          "Foo Fighters",
-          3
-        ],
-        [
-          "Queens of the Stone Age",
-          3
-        ],
-        [
-          "The Black Keys",
-          2
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "I Love Rock 'N Roll",
-          "artists": [
-            "Joan Jett & the Blackhearts"
-          ],
-          "genres": [
-            "rock"
-          ]
-        },
-        {
-          "name": "Since You Been Gone",
-          "artists": [
-            "Rainbow"
-          ],
-          "genres": [
-            "heavy metal",
-            "aor",
-            "metal",
-            "hard rock"
-          ]
-        },
-        {
-          "name": "Freaks",
-          "artists": [
-            "Surf Curse"
-          ],
-          "genres": [
-            "indie"
-          ]
-        },
-        {
-          "name": "Mr. Blue Sky",
-          "artists": [
-            "Electric Light Orchestra"
-          ],
-          "genres": [
-            "art rock"
-          ]
-        },
-        {
-          "name": "Lonely Boy",
-          "artists": [
-            "The Black Keys"
-          ],
-          "genres": [
-            "modern blues",
-            "rock",
-            "garage rock",
-            "blues rock"
-          ]
-        },
-        {
-          "name": "Wild Child",
-          "artists": [
-            "The Black Keys"
-          ],
-          "genres": [
-            "modern blues",
-            "rock",
-            "garage rock",
-            "blues rock"
-          ]
-        },
-        {
-          "name": "Highway to Hell",
-          "artists": [
-            "AC/DC"
-          ],
-          "genres": [
-            "classic rock",
-            "rock",
-            "rock and roll",
-            "hard rock"
-          ]
-        },
-        {
-          "name": "Boulevard of Broken Dreams",
-          "artists": [
-            "Green Day"
-          ],
-          "genres": [
-            "pop punk",
-            "punk"
-          ]
-        },
-        {
-          "name": "Sweet Child O' Mine",
-          "artists": [
-            "Guns N' Roses"
-          ],
-          "genres": [
-            "classic rock",
-            "glam metal",
-            "rock",
-            "hard rock"
-          ]
-        },
-        {
-          "name": "Smells Like Teen Spirit",
-          "artists": [
-            "Nirvana"
-          ],
-          "genres": [
-            "rock",
-            "grunge"
-          ]
-        },
-        {
-          "name": "Where Is My Mind? - 2007 Remaster",
-          "artists": [
-            "Pixies"
-          ],
-          "genres": [
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "Beggin'",
-          "artists": [
-            "Måneskin"
-          ],
-          "genres": []
-        },
-        {
-          "name": "R U Mine?",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "Do I Wanna Know?",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "Arabella",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "Selfless",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "The Adults Are Talking",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Basket Case",
-          "artists": [
-            "Green Day"
-          ],
-          "genres": [
-            "pop punk",
-            "punk"
-          ]
-        },
-        {
-          "name": "Black Hole Sun",
-          "artists": [
-            "Soundgarden"
-          ],
-          "genres": [
-            "post-grunge",
-            "grunge",
-            "hard rock"
-          ]
-        },
-        {
-          "name": "Crazy On You",
-          "artists": [
-            "Heart"
-          ],
-          "genres": [
-            "classic rock",
-            "aor",
-            "rock"
-          ]
-        },
-        {
-          "name": "Seven Nation Army",
-          "artists": [
-            "The White Stripes"
-          ],
-          "genres": [
-            "alternative rock",
-            "rock",
-            "garage rock",
-            "blues rock"
-          ]
-        },
-        {
-          "name": "505",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "Don't Stop Me Now",
-          "artists": [
-            "Queen"
-          ],
-          "genres": [
-            "classic rock",
-            "rock",
-            "glam rock"
-          ]
-        },
-        {
-          "name": "Cigarette Daydreams",
-          "artists": [
-            "Cage The Elephant"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Come a Little Closer",
-          "artists": [
-            "Cage The Elephant"
-          ],
-          "genres": []
-        },
-        {
-          "name": "12:51",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Reptilia",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Can't Stop",
-          "artists": [
-            "Red Hot Chili Peppers"
-          ],
-          "genres": [
-            "alternative rock",
-            "rock",
-            "funk rock"
-          ]
-        },
-        {
-          "name": "Last Nite",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Snap Out Of It",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "Creep",
-          "artists": [
-            "Radiohead"
-          ],
-          "genres": [
-            "art rock",
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "Pumped Up Kicks",
-          "artists": [
-            "Foster The People"
-          ],
-          "genres": []
-        },
-        {
-          "name": "I WANNA BE YOUR SLAVE",
-          "artists": [
-            "Måneskin"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Friday I'm In Love",
-          "artists": [
-            "The Cure"
-          ],
-          "genres": [
-            "darkwave",
-            "gothic rock",
-            "new wave",
-            "post-punk"
-          ]
-        },
-        {
-          "name": "Zombie",
-          "artists": [
-            "The Cranberries"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Do You Love Me",
-          "artists": [
-            "The Contours"
-          ],
-          "genres": [
-            "motown",
-            "northern soul"
-          ]
-        },
-        {
-          "name": "It's Just Forever (feat. Alison Mosshart)",
-          "artists": [
-            "Cage The Elephant",
-            "Alison Mosshart"
-          ],
-          "genres": [
-            "southern gothic"
-          ]
-        },
-        {
-          "name": "Take It or Leave It",
-          "artists": [
-            "Cage The Elephant"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Kiwi",
-          "artists": [
-            "Harry Styles"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Hotel California - 2013 Remaster",
-          "artists": [
-            "Eagles"
-          ],
-          "genres": [
-            "classic rock",
-            "yacht rock",
-            "soft rock"
-          ]
-        },
-        {
-          "name": "Someday",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Under Cover of Darkness",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Heart In a Cage",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Machu Picchu",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Is This It",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "When The Sun Goes Down",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "Island In The Sun",
-          "artists": [
-            "Weezer"
-          ],
-          "genres": [
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "Californication",
-          "artists": [
-            "Red Hot Chili Peppers"
-          ],
-          "genres": [
-            "alternative rock",
-            "rock",
-            "funk rock"
-          ]
-        },
-        {
-          "name": "Heart-Shaped Box",
-          "artists": [
-            "Nirvana"
-          ],
-          "genres": [
-            "rock",
-            "grunge"
-          ]
-        },
-        {
-          "name": "Boys Don't Cry",
-          "artists": [
-            "The Cure"
-          ],
-          "genres": [
-            "darkwave",
-            "gothic rock",
-            "new wave",
-            "post-punk"
-          ]
-        },
-        {
-          "name": "Karma Police",
-          "artists": [
-            "Radiohead"
-          ],
-          "genres": [
-            "art rock",
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "Mardy Bum",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "1979 - Remastered 2012",
-          "artists": [
-            "The Smashing Pumpkins"
-          ],
-          "genres": [
-            "rock",
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "High and Dry",
-          "artists": [
-            "Radiohead"
-          ],
-          "genres": [
-            "art rock",
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "You Only Live Once",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "Everlong",
-          "artists": [
-            "Foo Fighters"
-          ],
-          "genres": [
-            "alternative rock",
-            "post-grunge",
-            "rock",
-            "grunge"
-          ]
-        },
-        {
-          "name": "Crying Lightning",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "Are You Gonna Be My Girl",
-          "artists": [
-            "Jet"
-          ],
-          "genres": []
-        },
-        {
-          "name": "My Hero",
-          "artists": [
-            "Foo Fighters"
-          ],
-          "genres": [
-            "alternative rock",
-            "post-grunge",
-            "rock",
-            "grunge"
-          ]
-        },
-        {
-          "name": "Come Together - Remastered 2009",
-          "artists": [
-            "The Beatles"
-          ],
-          "genres": [
-            "classic rock",
-            "psychedelic rock"
-          ]
-        },
-        {
-          "name": "Here Comes Your Man",
-          "artists": [
-            "Pixies"
-          ],
-          "genres": [
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "Mr. Brightside",
-          "artists": [
-            "The Killers"
-          ],
-          "genres": [
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "Paint It, Black",
-          "artists": [
-            "The Rolling Stones"
-          ],
-          "genres": [
-            "classic rock",
-            "rock"
-          ]
-        },
-        {
-          "name": "Brianstorm",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "Song 2 - 2012 Remaster",
-          "artists": [
-            "Blur"
-          ],
-          "genres": [
-            "alternative rock",
-            "britpop",
-            "madchester"
-          ]
-        },
-        {
-          "name": "Big Me",
-          "artists": [
-            "Foo Fighters"
-          ],
-          "genres": [
-            "alternative rock",
-            "post-grunge",
-            "rock",
-            "grunge"
-          ]
-        },
-        {
-          "name": "Buddy Holly",
-          "artists": [
-            "Weezer"
-          ],
-          "genres": [
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "Don't Look Back in Anger - Remastered",
-          "artists": [
-            "Oasis"
-          ],
-          "genres": [
-            "rock",
-            "britpop",
-            "madchester"
-          ]
-        },
-        {
-          "name": "Fake Tales Of San Francisco",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "Another Brick in the Wall, Pt. 2",
-          "artists": [
-            "Pink Floyd"
-          ],
-          "genres": [
-            "rock",
-            "classic rock",
-            "psychedelic rock",
-            "art rock",
-            "progressive rock"
-          ]
-        },
-        {
-          "name": "Young Lust",
-          "artists": [
-            "Pink Floyd"
-          ],
-          "genres": [
-            "rock",
-            "classic rock",
-            "psychedelic rock",
-            "art rock",
-            "progressive rock"
-          ]
-        },
-        {
-          "name": "Wake Me up When September Ends",
-          "artists": [
-            "Green Day"
-          ],
-          "genres": [
-            "pop punk",
-            "punk"
-          ]
-        },
-        {
-          "name": "Holiday / Boulevard of Broken Dreams",
-          "artists": [
-            "Green Day"
-          ],
-          "genres": [
-            "pop punk",
-            "punk"
-          ]
-        },
-        {
-          "name": "Make It Wit Chu",
-          "artists": [
-            "Queens of the Stone Age"
-          ],
-          "genres": [
-            "stoner rock",
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "No One Knows",
-          "artists": [
-            "Queens of the Stone Age"
-          ],
-          "genres": [
-            "stoner rock",
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "Ain't No Rest for the Wicked",
-          "artists": [
-            "Cage The Elephant"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Neon Pill",
-          "artists": [
-            "Cage The Elephant"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Social Cues",
-          "artists": [
-            "Cage The Elephant"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Go With The Flow",
-          "artists": [
-            "Queens of the Stone Age"
-          ],
-          "genres": [
-            "stoner rock",
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "Covet",
-          "artists": [
-            "Basement"
-          ],
-          "genres": [
-            "shoegaze",
-            "midwest emo",
-            "pop punk"
-          ]
-        },
-        {
-          "name": "Drunk Drivers/Killer Whales",
-          "artists": [
-            "Car Seat Headrest"
-          ],
-          "genres": [
-            "indie rock",
-            "midwest emo"
-          ]
-        },
-        {
-          "name": "Take Me Out",
-          "artists": [
-            "Franz Ferdinand"
-          ],
-          "genres": [
-            "indie rock"
-          ]
-        },
-        {
-          "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
-          "artists": [
-            "Deftones"
-          ],
-          "genres": [
-            "rap metal",
-            "rock",
-            "nu metal",
-            "shoegaze",
-            "alternative metal"
-          ]
-        },
-        {
-          "name": "Fluorescent Adolescent",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "Shadowplay - 2007 Remaster",
-          "artists": [
-            "Joy Division"
-          ],
-          "genres": [
-            "gothic rock",
-            "madchester",
-            "darkwave",
-            "post-punk",
-            "cold wave",
-            "new wave"
-          ]
-        },
-        {
-          "name": "Sober to Death",
-          "artists": [
-            "Car Seat Headrest"
-          ],
-          "genres": [
-            "indie rock",
-            "midwest emo"
-          ]
-        },
-        {
-          "name": "Bodys",
-          "artists": [
-            "Car Seat Headrest"
-          ],
-          "genres": [
-            "indie rock",
-            "midwest emo"
-          ]
-        },
-        {
-          "name": "Fill In The Blank",
-          "artists": [
-            "Car Seat Headrest"
-          ],
-          "genres": [
-            "indie rock",
-            "midwest emo"
-          ]
-        },
-        {
-          "name": "Cute Thing",
-          "artists": [
-            "Car Seat Headrest"
-          ],
-          "genres": [
-            "indie rock",
-            "midwest emo"
-          ]
-        },
-        {
-          "name": "High to Death",
-          "artists": [
-            "Car Seat Headrest"
-          ],
-          "genres": [
-            "indie rock",
-            "midwest emo"
-          ]
-        },
-        {
-          "name": "Scar Tissue",
-          "artists": [
-            "Red Hot Chili Peppers"
-          ],
-          "genres": [
-            "alternative rock",
-            "rock",
-            "funk rock"
-          ]
-        },
-        {
-          "name": "Tear in My Heart",
-          "artists": [
-            "Twenty One Pilots"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Crazy Train",
-          "artists": [
-            "Ozzy Osbourne"
-          ],
-          "genres": [
-            "heavy metal",
-            "glam metal",
-            "metal",
-            "hard rock"
-          ]
-        },
-        {
-          "name": "Undercover Martyn",
-          "artists": [
-            "Two Door Cinema Club"
-          ],
-          "genres": [
-            "indie"
-          ]
-        },
-        {
-          "name": "Trouble",
-          "artists": [
-            "Cage The Elephant"
-          ],
-          "genres": []
-        },
-        {
-          "name": "The Less I Know The Better",
+          "name": "Elephant",
           "artists": [
             "Tame Impala"
           ],
@@ -3281,5133 +786,458 @@
           ]
         },
         {
-          "name": "Dear Maria, Count Me In",
-          "artists": [
-            "All Time Low"
-          ],
-          "genres": [
-            "pop punk",
-            "punk",
-            "emo"
-          ]
-        },
-        {
-          "name": "On Melancholy Hill",
-          "artists": [
-            "Gorillaz"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Remember When",
-          "artists": [
-            "Wallows"
-          ],
-          "genres": [
-            "indie"
-          ]
-        },
-        {
-          "name": "Human Sadness",
-          "artists": [
-            "The Voidz"
-          ],
-          "genres": []
-        }
-      ]
-    },
-    "shi to scare away the hoes": {
-      "playlist_name": "shi to scare away the hoes",
-      "playlist_id": "7ppk8OLNAtk6iVdTvXVwS6",
-      "track_count": 14,
-      "total_genres": 10,
-      "genre_counts": {
-        "uk drill": 4,
-        "drill": 4,
-        "uk grime": 2,
-        "grime": 2,
-        "hip hop": 1,
-        "west coast hip hop": 1,
-        "melodic rap": 1,
-        "bedroom pop": 1,
-        "emo rap": 2,
-        "rap": 3
-      },
-      "top_genres": [
-        [
-          "uk drill",
-          4
-        ],
-        [
-          "drill",
-          4
-        ],
-        [
-          "rap",
-          3
-        ],
-        [
-          "uk grime",
-          2
-        ],
-        [
-          "grime",
-          2
-        ],
-        [
-          "emo rap",
-          2
-        ],
-        [
-          "hip hop",
-          1
-        ],
-        [
-          "west coast hip hop",
-          1
-        ],
-        [
-          "melodic rap",
-          1
-        ],
-        [
-          "bedroom pop",
-          1
-        ]
-      ],
-      "artist_counts": {
-        "Central Cee": 2,
-        "blackbear": 1,
-        "Private Zero": 1,
-        "Kayem2x": 1,
-        "Kendrick Lamar": 1,
-        "Roddy Ricch": 1,
-        "DripReport": 1,
-        "PinkPantheress": 1,
-        "Ice Spice": 1,
-        "XXXTENTACION": 2,
-        "Kanye West": 3,
-        "Jack Harlow": 1
-      },
-      "top_artists": [
-        [
-          "Kanye West",
-          3
-        ],
-        [
-          "Central Cee",
-          2
-        ],
-        [
-          "XXXTENTACION",
-          2
-        ],
-        [
-          "blackbear",
-          1
-        ],
-        [
-          "Private Zero",
-          1
-        ],
-        [
-          "Kayem2x",
-          1
-        ],
-        [
-          "Kendrick Lamar",
-          1
-        ],
-        [
-          "Roddy Ricch",
-          1
-        ],
-        [
-          "DripReport",
-          1
-        ],
-        [
-          "PinkPantheress",
-          1
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "Doja",
-          "artists": [
-            "Central Cee"
-          ],
-          "genres": [
-            "drill",
-            "grime",
-            "uk grime",
-            "uk drill"
-          ]
-        },
-        {
-          "name": "hot girl bummer",
-          "artists": [
-            "blackbear"
-          ],
-          "genres": []
-        },
-        {
-          "name": "In Da Function",
-          "artists": [
-            "Private Zero",
-            "Kayem2x"
-          ],
-          "genres": [
-            "drill",
-            "uk drill"
-          ]
-        },
-        {
-          "name": "HUMBLE.",
-          "artists": [
-            "Kendrick Lamar"
-          ],
-          "genres": [
-            "west coast hip hop",
-            "hip hop"
-          ]
-        },
-        {
-          "name": "The Box",
-          "artists": [
-            "Roddy Ricch"
-          ],
-          "genres": [
-            "melodic rap"
-          ]
-        },
-        {
-          "name": "Skechers",
-          "artists": [
-            "DripReport"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Boy's a liar Pt. 2",
-          "artists": [
-            "PinkPantheress",
-            "Ice Spice"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "Moonlight",
-          "artists": [
-            "XXXTENTACION"
-          ],
-          "genres": [
-            "emo rap"
-          ]
-        },
-        {
-          "name": "Champion",
-          "artists": [
-            "Kanye West"
-          ],
-          "genres": [
-            "rap"
-          ]
-        },
-        {
-          "name": "I Wonder",
-          "artists": [
-            "Kanye West"
-          ],
-          "genres": [
-            "rap"
-          ]
-        },
-        {
-          "name": "Entrapreneur",
-          "artists": [
-            "Central Cee"
-          ],
-          "genres": [
-            "drill",
-            "grime",
-            "uk grime",
-            "uk drill"
-          ]
-        },
-        {
-          "name": "Look At Me!",
-          "artists": [
-            "XXXTENTACION"
-          ],
-          "genres": [
-            "emo rap"
-          ]
-        },
-        {
-          "name": "Father Stretch My Hands Pt. 1",
-          "artists": [
-            "Kanye West"
-          ],
-          "genres": [
-            "rap"
-          ]
-        },
-        {
-          "name": "Lovin On Me",
-          "artists": [
-            "Jack Harlow"
-          ],
-          "genres": []
-        }
-      ]
-    },
-    "drowning": {
-      "playlist_name": "drowning",
-      "playlist_id": "2lbWcVDjMzyTSBIUMtQqaZ",
-      "track_count": 20,
-      "total_genres": 13,
-      "genre_counts": {
-        "indie": 3,
-        "lo-fi indie": 2,
-        "dream pop": 3,
-        "bedroom pop": 2,
-        "garage rock": 2,
-        "indie rock": 1,
-        "alternative rock": 4,
-        "art rock": 3,
-        "folk rock": 2,
-        "folk": 2,
-        "singer-songwriter": 2,
-        "roots rock": 2,
-        "country rock": 2
-      },
-      "top_genres": [
-        [
-          "alternative rock",
-          4
-        ],
-        [
-          "indie",
-          3
-        ],
-        [
-          "dream pop",
-          3
-        ],
-        [
-          "art rock",
-          3
-        ],
-        [
-          "lo-fi indie",
-          2
-        ],
-        [
-          "bedroom pop",
-          2
-        ],
-        [
-          "garage rock",
-          2
-        ],
-        [
-          "folk rock",
-          2
-        ],
-        [
-          "folk",
-          2
-        ],
-        [
-          "singer-songwriter",
-          2
-        ]
-      ],
-      "artist_counts": {
-        "Mitski": 1,
-        "Suki Waterhouse": 1,
-        "Mac DeMarco": 2,
-        "Cigarettes After Sex": 2,
-        "Vansire": 1,
-        "FLOOR CRY": 1,
-        "Worry Club": 1,
-        "The Strokes": 1,
-        "Arctic Monkeys": 1,
-        "Thom Yorke": 2,
-        "Beach House": 1,
-        "Coldplay": 1,
-        "Radiohead": 3,
-        "Bob Dylan": 2,
-        "Cage The Elephant": 1
-      },
-      "top_artists": [
-        [
-          "Radiohead",
-          3
-        ],
-        [
-          "Mac DeMarco",
-          2
-        ],
-        [
-          "Cigarettes After Sex",
-          2
-        ],
-        [
-          "Thom Yorke",
-          2
-        ],
-        [
-          "Bob Dylan",
-          2
-        ],
-        [
-          "Mitski",
-          1
-        ],
-        [
-          "Suki Waterhouse",
-          1
-        ],
-        [
-          "Vansire",
-          1
-        ],
-        [
-          "FLOOR CRY",
-          1
-        ],
-        [
-          "Worry Club",
-          1
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "My Love Mine All Mine",
-          "artists": [
-            "Mitski"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Good Looking",
-          "artists": [
-            "Suki Waterhouse"
-          ],
-          "genres": []
-        },
-        {
-          "name": "My Kind of Woman",
-          "artists": [
-            "Mac DeMarco"
-          ],
-          "genres": [
-            "lo-fi indie",
-            "indie"
-          ]
-        },
-        {
-          "name": "Apocalypse",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "genres": [
-            "dream pop"
-          ]
-        },
-        {
-          "name": "K.",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "genres": [
-            "dream pop"
-          ]
-        },
-        {
-          "name": "Nice to See You",
-          "artists": [
-            "Vansire",
-            "FLOOR CRY"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "Same Name",
-          "artists": [
-            "Worry Club"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Call It Fate, Call It Karma",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "No. 1 Party Anthem",
+          "name": "A Certain Romance",
           "artists": [
             "Arctic Monkeys"
           ],
           "genres": [
             "garage rock",
             "indie"
-          ]
-        },
-        {
-          "name": "Suspirium",
-          "artists": [
-            "Thom Yorke"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Unmade",
-          "artists": [
-            "Thom Yorke"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Space Song",
-          "artists": [
-            "Beach House"
-          ],
-          "genres": [
-            "dream pop"
-          ]
-        },
-        {
-          "name": "Sparks",
-          "artists": [
-            "Coldplay"
-          ],
-          "genres": []
-        },
-        {
-          "name": "No Surprises",
-          "artists": [
-            "Radiohead"
-          ],
-          "genres": [
-            "art rock",
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "Chamber Of Reflection",
-          "artists": [
-            "Mac DeMarco"
-          ],
-          "genres": [
-            "lo-fi indie",
-            "indie"
-          ]
-        },
-        {
-          "name": "True Love Waits",
-          "artists": [
-            "Radiohead"
-          ],
-          "genres": [
-            "art rock",
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "Knockin' On Heaven's Door",
-          "artists": [
-            "Bob Dylan"
-          ],
-          "genres": [
-            "country rock",
-            "singer-songwriter",
-            "folk",
-            "folk rock",
-            "roots rock"
-          ]
-        },
-        {
-          "name": "Blowin' in the Wind",
-          "artists": [
-            "Bob Dylan"
-          ],
-          "genres": [
-            "country rock",
-            "singer-songwriter",
-            "folk",
-            "folk rock",
-            "roots rock"
-          ]
-        },
-        {
-          "name": "Love's The Only Way",
-          "artists": [
-            "Cage The Elephant"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Let Down",
-          "artists": [
-            "Radiohead"
-          ],
-          "genres": [
-            "art rock",
-            "alternative rock"
-          ]
-        }
-      ]
-    },
-    "if we don't leave this town": {
-      "playlist_name": "if we don't leave this town",
-      "playlist_id": "1Nb7Es2bAbeaMQAwlYFdnW",
-      "track_count": 24,
-      "total_genres": 10,
-      "genre_counts": {
-        "folk pop": 8,
-        "indie folk": 8,
-        "anti-folk": 1,
-        "folk punk": 1,
-        "folk": 1,
-        "classic rock": 2,
-        "rock": 1,
-        "edm": 1,
-        "psychedelic rock": 1,
-        "baroque pop": 2
-      },
-      "top_genres": [
-        [
-          "folk pop",
-          8
-        ],
-        [
-          "indie folk",
-          8
-        ],
-        [
-          "classic rock",
-          2
-        ],
-        [
-          "baroque pop",
-          2
-        ],
-        [
-          "anti-folk",
-          1
-        ],
-        [
-          "folk punk",
-          1
-        ],
-        [
-          "folk",
-          1
-        ],
-        [
-          "rock",
-          1
-        ],
-        [
-          "edm",
-          1
-        ],
-        [
-          "psychedelic rock",
-          1
-        ]
-      ],
-      "artist_counts": {
-        "The Lumineers": 6,
-        "Edith Whiskers": 1,
-        "Vance Joy": 1,
-        "Neutral Milk Hotel": 1,
-        "American Authors": 1,
-        "Gregory Alan Isakov": 1,
-        "The Who": 1,
-        "Avicii": 1,
-        "Bon Iver": 1,
-        "Hozier": 2,
-        "Plain White T's": 1,
-        "The Goo Goo Dolls": 1,
-        "The Beatles": 1,
-        "Cage The Elephant": 2,
-        "Florence + The Machine": 2,
-        "Snow Patrol": 1
-      },
-      "top_artists": [
-        [
-          "The Lumineers",
-          6
-        ],
-        [
-          "Hozier",
-          2
-        ],
-        [
-          "Cage The Elephant",
-          2
-        ],
-        [
-          "Florence + The Machine",
-          2
-        ],
-        [
-          "Edith Whiskers",
-          1
-        ],
-        [
-          "Vance Joy",
-          1
-        ],
-        [
-          "Neutral Milk Hotel",
-          1
-        ],
-        [
-          "American Authors",
-          1
-        ],
-        [
-          "Gregory Alan Isakov",
-          1
-        ],
-        [
-          "The Who",
-          1
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "Sleep On The Floor",
-          "artists": [
-            "The Lumineers"
-          ],
-          "genres": [
-            "indie folk",
-            "folk pop"
-          ]
-        },
-        {
-          "name": "Ophelia",
-          "artists": [
-            "The Lumineers"
-          ],
-          "genres": [
-            "indie folk",
-            "folk pop"
-          ]
-        },
-        {
-          "name": "Ho Hey",
-          "artists": [
-            "The Lumineers"
-          ],
-          "genres": [
-            "indie folk",
-            "folk pop"
-          ]
-        },
-        {
-          "name": "Cleopatra",
-          "artists": [
-            "The Lumineers"
-          ],
-          "genres": [
-            "indie folk",
-            "folk pop"
-          ]
-        },
-        {
-          "name": "Home",
-          "artists": [
-            "Edith Whiskers"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Riptide",
-          "artists": [
-            "Vance Joy"
-          ],
-          "genres": [
-            "folk pop"
-          ]
-        },
-        {
-          "name": "In the Aeroplane Over the Sea",
-          "artists": [
-            "Neutral Milk Hotel"
-          ],
-          "genres": [
-            "anti-folk",
-            "folk punk"
-          ]
-        },
-        {
-          "name": "Best Day Of My Life",
-          "artists": [
-            "American Authors"
-          ],
-          "genres": []
-        },
-        {
-          "name": "If I Go, I'm Goin",
-          "artists": [
-            "Gregory Alan Isakov"
-          ],
-          "genres": [
-            "indie folk",
-            "folk pop",
-            "folk"
-          ]
-        },
-        {
-          "name": "Baba O'Riley",
-          "artists": [
-            "The Who"
-          ],
-          "genres": [
-            "classic rock",
-            "rock"
-          ]
-        },
-        {
-          "name": "Wake Me Up",
-          "artists": [
-            "Avicii"
-          ],
-          "genres": [
-            "edm"
-          ]
-        },
-        {
-          "name": "Skinny Love",
-          "artists": [
-            "Bon Iver"
-          ],
-          "genres": [
-            "indie folk"
-          ]
-        },
-        {
-          "name": "Someone New",
-          "artists": [
-            "Hozier"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Hey There Delilah",
-          "artists": [
-            "Plain White T's"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Iris",
-          "artists": [
-            "The Goo Goo Dolls"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Here Comes The Sun - Remastered 2009",
-          "artists": [
-            "The Beatles"
-          ],
-          "genres": [
-            "classic rock",
-            "psychedelic rock"
-          ]
-        },
-        {
-          "name": "Stubborn Love",
-          "artists": [
-            "The Lumineers"
-          ],
-          "genres": [
-            "indie folk",
-            "folk pop"
-          ]
-        },
-        {
-          "name": "Flowers In Your Hair",
-          "artists": [
-            "The Lumineers"
-          ],
-          "genres": [
-            "indie folk",
-            "folk pop"
-          ]
-        },
-        {
-          "name": "Cigarette Daydreams",
-          "artists": [
-            "Cage The Elephant"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Dog Days Are Over",
-          "artists": [
-            "Florence + The Machine"
-          ],
-          "genres": [
-            "baroque pop"
-          ]
-        },
-        {
-          "name": "Take Me To Church",
-          "artists": [
-            "Hozier"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Chasing Cars",
-          "artists": [
-            "Snow Patrol"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Trouble",
-          "artists": [
-            "Cage The Elephant"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Bird Song",
-          "artists": [
-            "Florence + The Machine"
-          ],
-          "genres": [
-            "baroque pop"
-          ]
-        }
-      ]
-    },
-    "start a fight club": {
-      "playlist_name": "start a fight club",
-      "playlist_id": "6dweMgqZOpZlfRAd5QVVPj",
-      "track_count": 8,
-      "total_genres": 5,
-      "genre_counts": {
-        "alternative rock": 3,
-        "art rock": 2,
-        "jazz": 2,
-        "big band": 1,
-        "art pop": 1
-      },
-      "top_genres": [
-        [
-          "alternative rock",
-          3
-        ],
-        [
-          "art rock",
-          2
-        ],
-        [
-          "jazz",
-          2
-        ],
-        [
-          "big band",
-          1
-        ],
-        [
-          "art pop",
-          1
-        ]
-      ],
-      "artist_counts": {
-        "Pixies": 1,
-        "Radiohead": 2,
-        "John Wasson": 1,
-        "Labrinth": 1,
-        "Joji": 1,
-        "Perfume Genius": 1,
-        "Antonio Sánchez": 1
-      },
-      "top_artists": [
-        [
-          "Radiohead",
-          2
-        ],
-        [
-          "Pixies",
-          1
-        ],
-        [
-          "John Wasson",
-          1
-        ],
-        [
-          "Labrinth",
-          1
-        ],
-        [
-          "Joji",
-          1
-        ],
-        [
-          "Perfume Genius",
-          1
-        ],
-        [
-          "Antonio Sánchez",
-          1
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "Where Is My Mind? - 2007 Remaster",
-          "artists": [
-            "Pixies"
-          ],
-          "genres": [
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "Creep",
-          "artists": [
-            "Radiohead"
-          ],
-          "genres": [
-            "art rock",
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "Caravan",
-          "artists": [
-            "John Wasson"
-          ],
-          "genres": [
-            "big band",
-            "jazz"
-          ]
-        },
-        {
-          "name": "Still Don't Know My Name",
-          "artists": [
-            "Labrinth"
-          ],
-          "genres": []
-        },
-        {
-          "name": "SLOW DANCING IN THE DARK",
-          "artists": [
-            "Joji"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Otherside",
-          "artists": [
-            "Perfume Genius"
-          ],
-          "genres": [
-            "art pop"
-          ]
-        },
-        {
-          "name": "The Anxious Battle for Sanity",
-          "artists": [
-            "Antonio Sánchez"
-          ],
-          "genres": [
-            "jazz"
-          ]
-        },
-        {
-          "name": "No Surprises",
-          "artists": [
-            "Radiohead"
-          ],
-          "genres": [
-            "art rock",
-            "alternative rock"
-          ]
-        }
-      ]
-    },
-    "listerine": {
-      "playlist_name": "listerine",
-      "playlist_id": "2dlpr7au0Q875XztrIpfHh",
-      "track_count": 34,
-      "total_genres": 10,
-      "genre_counts": {
-        "indian indie": 2,
-        "hindi indie": 2,
-        "indie rock": 6,
-        "indie": 8,
-        "bedroom pop": 4,
-        "indie pop": 1,
-        "folk pop": 1,
-        "surf rock": 1,
-        "alternative r&b": 1,
-        "indie soul": 1
-      },
-      "top_genres": [
-        [
-          "indie",
-          8
-        ],
-        [
-          "indie rock",
-          6
-        ],
-        [
-          "bedroom pop",
-          4
-        ],
-        [
-          "indian indie",
-          2
-        ],
-        [
-          "hindi indie",
-          2
-        ],
-        [
-          "indie pop",
-          1
-        ],
-        [
-          "folk pop",
-          1
-        ],
-        [
-          "surf rock",
-          1
-        ],
-        [
-          "alternative r&b",
-          1
-        ],
-        [
-          "indie soul",
-          1
-        ]
-      ],
-      "artist_counts": {
-        "The F16s": 1,
-        "Dayglow": 6,
-        "Wallows": 7,
-        "Clairo": 1,
-        "Lonely God": 1,
-        "boy pablo": 1,
-        "Go-Jo": 1,
-        "The Backseat Lovers": 4,
-        "HUNNY": 1,
-        "Wabie": 1,
-        "Declan McKenna": 2,
-        "When Chai Met Toast": 1,
-        "Peach Pit": 1,
-        "Harmless": 1,
-        "Two Door Cinema Club": 1,
-        "Twenty One Pilots": 1,
-        "The Buttertones": 1,
-        "Foster The People": 1,
-        "Fitz and The Tantrums": 1,
-        "Ravyn Lenae": 1,
-        "Rex Orange County": 1
-      },
-      "top_artists": [
-        [
-          "Wallows",
-          7
-        ],
-        [
-          "Dayglow",
-          6
-        ],
-        [
-          "The Backseat Lovers",
-          4
-        ],
-        [
-          "Declan McKenna",
-          2
-        ],
-        [
-          "The F16s",
-          1
-        ],
-        [
-          "Clairo",
-          1
-        ],
-        [
-          "Lonely God",
-          1
-        ],
-        [
-          "boy pablo",
-          1
-        ],
-        [
-          "Go-Jo",
-          1
-        ],
-        [
-          "HUNNY",
-          1
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "Moon Child",
-          "artists": [
-            "The F16s"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "False Direction",
-          "artists": [
-            "Dayglow"
-          ],
-          "genres": [
-            "indie rock"
-          ]
-        },
-        {
-          "name": "Hot Rod",
-          "artists": [
-            "Dayglow"
-          ],
-          "genres": [
-            "indie rock"
-          ]
-        },
-        {
-          "name": "Listerine",
-          "artists": [
-            "Dayglow"
-          ],
-          "genres": [
-            "indie rock"
-          ]
-        },
-        {
-          "name": "Remember When",
-          "artists": [
-            "Wallows"
-          ],
-          "genres": [
-            "indie"
-          ]
-        },
-        {
-          "name": "Are You Bored Yet? (feat. Clairo)",
-          "artists": [
-            "Wallows",
-            "Clairo"
-          ],
-          "genres": [
-            "bedroom pop",
-            "indie"
-          ]
-        },
-        {
-          "name": "Can I Call You Tonight?",
-          "artists": [
-            "Dayglow"
-          ],
-          "genres": [
-            "indie rock"
-          ]
-        },
-        {
-          "name": "Scrawny",
-          "artists": [
-            "Wallows"
-          ],
-          "genres": [
-            "indie"
-          ]
-        },
-        {
-          "name": "Marlboro Nights",
-          "artists": [
-            "Lonely God"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Dance, Baby!",
-          "artists": [
-            "boy pablo"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "Loverman",
-          "artists": [
-            "Go-Jo"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Run the World!!!",
-          "artists": [
-            "Dayglow"
-          ],
-          "genres": [
-            "indie rock"
-          ]
-        },
-        {
-          "name": "Pleaser",
-          "artists": [
-            "Wallows"
-          ],
-          "genres": [
-            "indie"
-          ]
-        },
-        {
-          "name": "Kilby Girl",
-          "artists": [
-            "The Backseat Lovers"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Televised",
-          "artists": [
-            "HUNNY"
-          ],
-          "genres": [
-            "indie pop"
-          ]
-        },
-        {
-          "name": "These Days",
-          "artists": [
-            "Wallows"
-          ],
-          "genres": [
-            "indie"
-          ]
-        },
-        {
-          "name": "Hey Lover!",
-          "artists": [
-            "Wabie"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "Why Do You Feel So Down",
-          "artists": [
-            "Declan McKenna"
-          ],
-          "genres": []
-        },
-        {
-          "name": "I'm Full",
-          "artists": [
-            "Wallows"
-          ],
-          "genres": [
-            "indie"
-          ]
-        },
-        {
-          "name": "When We Feel Young",
-          "artists": [
-            "When Chai Met Toast"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie",
-            "folk pop"
-          ]
-        },
-        {
-          "name": "1980s Horror Film II",
-          "artists": [
-            "Wallows"
-          ],
-          "genres": [
-            "indie"
-          ]
-        },
-        {
-          "name": "Maple Syrup",
-          "artists": [
-            "The Backseat Lovers"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Peach Pit",
-          "artists": [
-            "Peach Pit"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Pool House",
-          "artists": [
-            "The Backseat Lovers"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Watch Your Mouth",
-          "artists": [
-            "The Backseat Lovers"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Swing Lynn",
-          "artists": [
-            "Harmless"
-          ],
-          "genres": []
-        },
-        {
-          "name": "British Bombs",
-          "artists": [
-            "Declan McKenna"
-          ],
-          "genres": []
-        },
-        {
-          "name": "What You Know",
-          "artists": [
-            "Two Door Cinema Club"
-          ],
-          "genres": [
-            "indie"
-          ]
-        },
-        {
-          "name": "Cocoon",
-          "artists": [
-            "Dayglow"
-          ],
-          "genres": [
-            "indie rock"
-          ]
-        },
-        {
-          "name": "Tear in My Heart",
-          "artists": [
-            "Twenty One Pilots"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Orpheus Under the Influence",
-          "artists": [
-            "The Buttertones"
-          ],
-          "genres": [
-            "surf rock"
-          ]
-        },
-        {
-          "name": "Houdini",
-          "artists": [
-            "Foster The People"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Out of My League",
-          "artists": [
-            "Fitz and The Tantrums"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Love Me Not (feat. Rex Orange County)",
-          "artists": [
-            "Ravyn Lenae",
-            "Rex Orange County"
-          ],
-          "genres": [
-            "bedroom pop",
-            "indie soul",
-            "alternative r&b"
-          ]
-        }
-      ]
-    },
-    "escape 🚬": {
-      "playlist_name": "escape 🚬",
-      "playlist_id": "4NYHxrb5hBculrAHluxKbn",
-      "track_count": 2,
-      "total_genres": 3,
-      "genre_counts": {
-        "art rock": 1,
-        "alternative rock": 1,
-        "blues rock": 1
-      },
-      "top_genres": [
-        [
-          "art rock",
-          1
-        ],
-        [
-          "alternative rock",
-          1
-        ],
-        [
-          "blues rock",
-          1
-        ]
-      ],
-      "artist_counts": {
-        "Radiohead": 1,
-        "Reignwolf": 1
-      },
-      "top_artists": [
-        [
-          "Radiohead",
-          1
-        ],
-        [
-          "Reignwolf",
-          1
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "No Surprises",
-          "artists": [
-            "Radiohead"
-          ],
-          "genres": [
-            "art rock",
-            "alternative rock"
-          ]
-        },
-        {
-          "name": "Wolf River",
-          "artists": [
-            "Reignwolf"
-          ],
-          "genres": [
-            "blues rock"
-          ]
-        }
-      ]
-    },
-    "kura": {
-      "playlist_name": "kura",
-      "playlist_id": "4hAMkEYrtT6CaNs6IjnpUG",
-      "track_count": 73,
-      "total_genres": 25,
-      "genre_counts": {
-        "baroque pop": 1,
-        "indian indie": 4,
-        "hindi indie": 4,
-        "alternative r&b": 1,
-        "indie soul": 1,
-        "folk pop": 1,
-        "indie folk": 1,
-        "hindi pop": 7,
-        "desi": 6,
-        "bedroom pop": 13,
-        "indie": 7,
-        "lo-fi indie": 1,
-        "indie rock": 5,
-        "bollywood": 7,
-        "sufi": 3,
-        "britpop": 1,
-        "midwest emo": 2,
-        "garage rock": 4,
-        "new wave": 1,
-        "madchester": 1,
-        "jangle pop": 1,
-        "alternative rock": 2,
-        "dream pop": 4,
-        "musicals": 1,
-        "art rock": 1
-      },
-      "top_genres": [
-        [
-          "bedroom pop",
-          13
-        ],
-        [
-          "hindi pop",
-          7
-        ],
-        [
-          "indie",
-          7
-        ],
-        [
-          "bollywood",
-          7
-        ],
-        [
-          "desi",
-          6
-        ],
-        [
-          "indie rock",
-          5
-        ],
-        [
-          "indian indie",
-          4
-        ],
-        [
-          "hindi indie",
-          4
-        ],
-        [
-          "garage rock",
-          4
-        ],
-        [
-          "dream pop",
-          4
-        ]
-      ],
-      "artist_counts": {
-        "Patrick Watson": 2,
-        "New West": 1,
-        "Sufjan Stevens": 1,
-        "Prateek Kuhad": 2,
-        "Raveena": 1,
-        "The Lumineers": 1,
-        "Ritviz": 1,
-        "Wabie": 1,
-        "Mac DeMarco": 1,
-        "Lord Huron": 2,
-        "Dayglow": 2,
-        "Wallows": 2,
-        "Shankar-Ehsaan-Loy": 1,
-        "Clinton Cerejo": 1,
-        "Dominique Cerejo": 1,
-        "Loy Mendonsa": 1,
-        "Mina Okabe": 1,
-        "Graham Coxon": 1,
-        "The Backseat Lovers": 2,
-        "Go-Jo": 1,
-        "Car Seat Headrest": 2,
-        "TV Girl": 2,
-        "Arctic Monkeys": 3,
-        "The Goo Goo Dolls": 1,
-        "Cage The Elephant": 1,
-        "The Smiths": 1,
-        "Strawberry Guy": 1,
-        "The Strokes": 1,
-        "Cigarettes After Sex": 4,
-        "Coldplay": 1,
-        "The Neighbourhood": 1,
-        "The Walters": 1,
-        "Clairo": 3,
-        "Rex Orange County": 1,
-        "beabadoobee": 3,
-        "Bruno Major": 1,
-        "Lana Del Rey": 4,
-        "Father John Misty": 1,
-        "Dr. Dog": 1,
-        "Mitski": 1,
-        "Wasia Project": 1,
-        "Lauv": 1,
-        "Justin Hurwitz": 1,
-        "Ryan Gosling": 1,
-        "Emma Stone": 1,
-        "Gorillaz": 1,
-        "Vansire": 1,
-        "Lyn Lapid": 1,
-        "Anuv Jain": 1,
-        "Pritam": 1,
-        "Papon": 1,
-        "Sunidhi Chauhan": 1,
-        "Chris Lanzon": 1,
-        "girl in red": 2,
-        "Twenty One Pilots": 1,
-        "yung kai": 1,
-        "The Marías": 1,
-        "Phoebe Bridgers": 1,
-        "Gigi Perez": 1,
-        "The 1975": 1,
-        "Surf Curse": 1,
-        "Radiohead": 1
-      },
-      "top_artists": [
-        [
-          "Cigarettes After Sex",
-          4
-        ],
-        [
-          "Lana Del Rey",
-          4
-        ],
-        [
-          "Arctic Monkeys",
-          3
-        ],
-        [
-          "Clairo",
-          3
-        ],
-        [
-          "beabadoobee",
-          3
-        ],
-        [
-          "Patrick Watson",
-          2
-        ],
-        [
-          "Prateek Kuhad",
-          2
-        ],
-        [
-          "Lord Huron",
-          2
-        ],
-        [
-          "Dayglow",
-          2
-        ],
-        [
-          "Wallows",
-          2
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "Sit Down Beside Me",
-          "artists": [
-            "Patrick Watson"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Those Eyes",
-          "artists": [
-            "New West"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Je te laisserai des mots",
-          "artists": [
-            "Patrick Watson"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Mystery of Love",
-          "artists": [
-            "Sufjan Stevens"
-          ],
-          "genres": [
-            "baroque pop"
-          ]
-        },
-        {
-          "name": "Bloom (feat. Raveena)",
-          "artists": [
-            "Prateek Kuhad",
-            "Raveena"
-          ],
-          "genres": [
-            "hindi indie",
-            "indie soul",
-            "indian indie",
-            "alternative r&b"
-          ]
-        },
-        {
-          "name": "Sleep On The Floor",
-          "artists": [
-            "The Lumineers"
-          ],
-          "genres": [
-            "indie folk",
-            "folk pop"
-          ]
-        },
-        {
-          "name": "Tum Jab Paas",
-          "artists": [
-            "Prateek Kuhad"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Liggi",
-          "artists": [
-            "Ritviz"
-          ],
-          "genres": [
-            "hindi indie",
-            "desi",
-            "indian indie",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Hey Lover!",
-          "artists": [
-            "Wabie"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "My Kind of Woman",
-          "artists": [
-            "Mac DeMarco"
-          ],
-          "genres": [
-            "lo-fi indie",
-            "indie"
-          ]
-        },
-        {
-          "name": "Meet Me In The Woods",
-          "artists": [
-            "Lord Huron"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Hot Rod",
-          "artists": [
-            "Dayglow"
-          ],
-          "genres": [
-            "indie rock"
-          ]
-        },
-        {
-          "name": "Can I Call You Tonight?",
-          "artists": [
-            "Dayglow"
-          ],
-          "genres": [
-            "indie rock"
-          ]
-        },
-        {
-          "name": "Remember When",
-          "artists": [
-            "Wallows"
-          ],
-          "genres": [
-            "indie"
-          ]
-        },
-        {
-          "name": "Kya Karoon?",
-          "artists": [
-            "Shankar-Ehsaan-Loy",
-            "Clinton Cerejo",
-            "Dominique Cerejo",
-            "Loy Mendonsa"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop",
-            "sufi"
-          ]
-        },
-        {
-          "name": "Every Second",
-          "artists": [
-            "Mina Okabe"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Walking All Day",
-          "artists": [
-            "Graham Coxon"
-          ],
-          "genres": [
-            "britpop"
-          ]
-        },
-        {
-          "name": "Kilby Girl",
-          "artists": [
-            "The Backseat Lovers"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Mrs. Hollywood",
-          "artists": [
-            "Go-Jo"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Davy Crochet",
-          "artists": [
-            "The Backseat Lovers"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Fill In The Blank",
-          "artists": [
-            "Car Seat Headrest"
-          ],
-          "genres": [
-            "indie rock",
-            "midwest emo"
-          ]
-        },
-        {
-          "name": "Bodys",
-          "artists": [
-            "Car Seat Headrest"
-          ],
-          "genres": [
-            "indie rock",
-            "midwest emo"
-          ]
-        },
-        {
-          "name": "Blue Hair",
-          "artists": [
-            "TV Girl"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Mad Sounds",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "Iris",
-          "artists": [
-            "The Goo Goo Dolls"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Cigarette Daydreams",
-          "artists": [
-            "Cage The Elephant"
-          ],
-          "genres": []
-        },
-        {
-          "name": "There Is a Light That Never Goes Out - 2011 Remaster",
-          "artists": [
-            "The Smiths"
-          ],
-          "genres": [
-            "jangle pop",
-            "new wave",
-            "madchester"
-          ]
-        },
-        {
-          "name": "Mrs Magic",
-          "artists": [
-            "Strawberry Guy"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "Selfless",
-          "artists": [
-            "The Strokes"
-          ],
-          "genres": [
-            "alternative rock",
-            "indie rock",
-            "garage rock"
-          ]
-        },
-        {
-          "name": "K.",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "genres": [
-            "dream pop"
-          ]
-        },
-        {
-          "name": "Lovers Rock",
-          "artists": [
-            "TV Girl"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Apocalypse",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "genres": [
-            "dream pop"
-          ]
-        },
-        {
-          "name": "The Night We Met",
-          "artists": [
-            "Lord Huron"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Sparks",
-          "artists": [
-            "Coldplay"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Pretty Boy",
-          "artists": [
-            "The Neighbourhood"
-          ],
-          "genres": []
-        },
-        {
-          "name": "I Love You So",
-          "artists": [
-            "The Walters"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Bubble Gum",
-          "artists": [
-            "Clairo"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "Best Friend",
-          "artists": [
-            "Rex Orange County"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "Coffee",
-          "artists": [
-            "beabadoobee"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "Nothing",
-          "artists": [
-            "Bruno Major"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Say Yes To Heaven",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Let The Light In (feat. Father John Misty)",
-          "artists": [
-            "Lana Del Rey",
-            "Father John Misty"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Where'd All the Time Go?",
-          "artists": [
-            "Dr. Dog"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Are You Bored Yet? (feat. Clairo)",
-          "artists": [
-            "Wallows",
-            "Clairo"
-          ],
-          "genres": [
-            "bedroom pop",
-            "indie"
-          ]
-        },
-        {
-          "name": "My Love Mine All Mine",
-          "artists": [
-            "Mitski"
-          ],
-          "genres": []
-        },
-        {
-          "name": "ur so pretty",
-          "artists": [
-            "Wasia Project"
-          ],
-          "genres": []
-        },
-        {
-          "name": "I Like Me Better",
-          "artists": [
-            "Lauv"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Mia & Sebastian’s Theme",
-          "artists": [
-            "Justin Hurwitz"
-          ],
-          "genres": []
-        },
-        {
-          "name": "City Of Stars - From \"La La Land\" Soundtrack",
-          "artists": [
-            "Ryan Gosling",
-            "Emma Stone"
-          ],
-          "genres": [
-            "musicals"
-          ]
-        },
-        {
-          "name": "On Melancholy Hill",
-          "artists": [
-            "Gorillaz"
-          ],
-          "genres": []
-        },
-        {
-          "name": "From the Subway Train",
-          "artists": [
-            "Vansire"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "Brooklyn Baby",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Cinnamon Girl",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "genres": []
-        },
-        {
-          "name": "In My Mind",
-          "artists": [
-            "Lyn Lapid"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Baarishein",
-          "artists": [
-            "Anuv Jain"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Kyon",
-          "artists": [
-            "Pritam",
-            "Papon",
-            "Sunidhi Chauhan"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop",
-            "sufi"
-          ]
-        },
-        {
-          "name": "Lilo",
-          "artists": [
-            "Chris Lanzon"
-          ],
-          "genres": []
-        },
-        {
-          "name": "we fell in love in october",
-          "artists": [
-            "girl in red"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "Tear in My Heart",
-          "artists": [
-            "Twenty One Pilots"
-          ],
-          "genres": []
-        },
-        {
-          "name": "blue",
-          "artists": [
-            "yung kai"
-          ],
-          "genres": []
-        },
-        {
-          "name": "No One Noticed",
-          "artists": [
-            "The Marías"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "Scott Street",
-          "artists": [
-            "Phoebe Bridgers"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Glue Song",
-          "artists": [
-            "beabadoobee"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "Sailor Song",
-          "artists": [
-            "Gigi Perez"
-          ],
-          "genres": []
-        },
-        {
-          "name": "About You",
-          "artists": [
-            "The 1975"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Sunsetz",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "genres": [
-            "dream pop"
-          ]
-        },
-        {
-          "name": "Sweet",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "genres": [
-            "dream pop"
-          ]
-        },
-        {
-          "name": "Glue Song (feat. Clairo)",
-          "artists": [
-            "beabadoobee",
-            "Clairo"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "I Wanna Be Yours",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "Disco",
-          "artists": [
-            "Surf Curse"
-          ],
-          "genres": [
-            "indie"
-          ]
-        },
-        {
-          "name": "i wanna be your girlfriend",
-          "artists": [
-            "girl in red"
-          ],
-          "genres": [
-            "bedroom pop"
-          ]
-        },
-        {
-          "name": "No. 1 Party Anthem",
-          "artists": [
-            "Arctic Monkeys"
-          ],
-          "genres": [
-            "garage rock",
-            "indie"
-          ]
-        },
-        {
-          "name": "No Surprises",
-          "artists": [
-            "Radiohead"
-          ],
-          "genres": [
-            "art rock",
-            "alternative rock"
-          ]
-        }
-      ]
-    },
-    "hindi": {
-      "playlist_name": "hindi",
-      "playlist_id": "2t5LVRWiXHmdZFuZ3UGaPv",
-      "track_count": 57,
-      "total_genres": 26,
-      "genre_counts": {
-        "indian indie": 26,
-        "hindi indie": 26,
-        "bollywood": 105,
-        "sufi": 24,
-        "desi": 94,
-        "hindi pop": 101,
-        "kannada pop": 3,
-        "tollywood": 4,
-        "telugu pop": 4,
-        "desi pop": 5,
-        "hindi hip hop": 2,
-        "desi hip hop": 2,
-        "ghazal": 5,
-        "tamil pop": 3,
-        "kollywood": 2,
-        "gujarati garba": 5,
-        "marathi pop": 3,
-        "devotional": 1,
-        "bhajan": 1,
-        "tamil dance": 2,
-        "bangla pop": 8,
-        "qawwali": 2,
-        "bhangra": 1,
-        "gujarati pop": 3,
-        "folk metal": 1,
-        "metal": 1
-      },
-      "top_genres": [
-        [
-          "bollywood",
-          105
-        ],
-        [
-          "hindi pop",
-          101
-        ],
-        [
-          "desi",
-          94
-        ],
-        [
-          "indian indie",
-          26
-        ],
-        [
-          "hindi indie",
-          26
-        ],
-        [
-          "sufi",
-          24
-        ],
-        [
-          "bangla pop",
-          8
-        ],
-        [
-          "desi pop",
-          5
-        ],
-        [
-          "ghazal",
-          5
-        ],
-        [
-          "gujarati garba",
-          5
-        ]
-      ],
-      "artist_counts": {
-        "Taba Chake": 2,
-        "Shankar-Ehsaan-Loy": 1,
-        "Clinton Cerejo": 1,
-        "Dominique Cerejo": 1,
-        "Loy Mendonsa": 1,
-        "Prateek Kuhad": 2,
-        "Armaan Malik": 2,
-        "Abhishek Arora": 1,
-        "Abhiruchi Chand": 1,
-        "Anuv Jain": 2,
-        "Suzonn": 1,
-        "OAFF": 1,
-        "Lothika": 1,
-        "Ankur Tewari": 1,
-        "The Ghalat Family": 1,
-        "Karsh Kale": 1,
-        "Pritam": 10,
-        "Papon": 1,
-        "Sunidhi Chauhan": 2,
-        "Ritviz": 2,
-        "Kavita Seth": 2,
-        "Kanishk Seth": 1,
-        "The Local Train": 2,
-        "NAALAYAK": 1,
-        "Sona Mohapatra": 1,
-        "Mohit Chauhan": 3,
-        "A.R. Rahman": 1,
-        "Prasoon Joshi": 1,
-        "Shefali Alvares": 1,
-        "Nikhil D'Souza": 2,
-        "Amit Trivedi": 3,
-        "Shankar Mahadevan": 1,
-        "Alyssa Mendonsa": 1,
-        "Benny Dayal": 5,
-        "Anushka Manchanda": 1,
-        "Farhan Akhtar": 2,
-        "Hrithik Roshan": 1,
-        "Abhay Deol": 1,
-        "Maria Del Mar Fernandez": 1,
-        "Arijit Singh": 7,
-        "Harshdeep Kaur": 3,
-        "Chinmayi": 1,
-        "Vishal Mishra": 1,
-        "Raj Shekhar": 1,
-        "Vishal-Shekhar": 1,
-        "Shafqat Amanat Ali": 1,
-        "Kumaar": 3,
-        "Irshad Kamil": 4,
-        "Alka Yagnik": 1,
-        "Taaruk Raina": 1,
-        "Mismatched - Cast": 1,
-        "Sohail Sen": 2,
-        "Rahat Fateh Ali Khan": 1,
-        "Vishal Dadlani": 2,
-        "Neeraj Shridhar": 2,
-        "Shreya Ghoshal": 1,
-        "Salim–Sulaiman": 1,
-        "Salim Merchant": 1,
-        "Amitabh Bhattacharya": 2,
-        "Mika Singh": 1,
-        "Nakash Aziz": 1,
-        "Javed Jaffrey": 1,
-        "Labh Janjua": 1,
-        "Sonu Kakkar": 1,
-        "Neha Kakkar": 1,
-        "Jasleen Royal": 1,
-        "Siddharth Mahadevan": 1,
-        "Aditya Sharma": 1,
-        "Shalmali Kholgade": 1,
-        "Falak Shabbir": 1,
-        "Bloodywood": 1,
-        "Rovalio": 1,
-        "Abdul Hannan": 1,
-        "Neeti Mohan": 1,
-        "Amaal Mallik": 1,
-        "Aditi Singh Sharma": 2,
-        "Tochi Raina": 1,
-        "Rekha Bhardwaj": 1,
-        "Sachin-Jigar": 1,
-        "Priya Saraiya": 1
-      },
-      "top_artists": [
-        [
-          "Pritam",
-          10
-        ],
-        [
-          "Arijit Singh",
-          7
-        ],
-        [
-          "Benny Dayal",
-          5
-        ],
-        [
-          "Irshad Kamil",
-          4
-        ],
-        [
-          "Mohit Chauhan",
-          3
-        ],
-        [
-          "Amit Trivedi",
-          3
-        ],
-        [
-          "Harshdeep Kaur",
-          3
-        ],
-        [
-          "Kumaar",
-          3
-        ],
-        [
-          "Taba Chake",
-          2
-        ],
-        [
-          "Prateek Kuhad",
-          2
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "Shaayad",
-          "artists": [
-            "Taba Chake"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Kya Karoon?",
-          "artists": [
-            "Shankar-Ehsaan-Loy",
-            "Clinton Cerejo",
-            "Dominique Cerejo",
-            "Loy Mendonsa"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop",
-            "sufi"
-          ]
-        },
-        {
-          "name": "Tum Jab Paas",
-          "artists": [
-            "Prateek Kuhad"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Theher Ja",
-          "artists": [
-            "Armaan Malik",
-            "Abhishek Arora",
-            "Abhiruchi Chand"
-          ],
-          "genres": [
-            "telugu pop",
-            "hindi pop",
-            "kannada pop",
-            "tollywood",
-            "bollywood"
-          ]
-        },
-        {
-          "name": "Alag Aasmaan",
-          "artists": [
-            "Anuv Jain"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Farq hai",
-          "artists": [
-            "Suzonn"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Aao Chalein",
-          "artists": [
-            "Taba Chake"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Kasoor",
-          "artists": [
-            "Prateek Kuhad"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Tu Kahaan - 1 Min Music",
-          "artists": [
-            "OAFF",
-            "Lothika"
-          ],
-          "genres": [
-            "hindi indie",
-            "hindi pop",
-            "desi",
-            "desi pop",
-            "bollywood",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Mohobbat Zindabad",
-          "artists": [
-            "Ankur Tewari",
-            "The Ghalat Family",
-            "Karsh Kale"
-          ],
-          "genres": [
-            "hindi hip hop",
-            "hindi indie",
-            "indian indie",
-            "desi hip hop"
-          ]
-        },
-        {
-          "name": "Kyon",
-          "artists": [
-            "Pritam",
-            "Papon",
-            "Sunidhi Chauhan"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop",
-            "sufi"
-          ]
-        },
-        {
-          "name": "Aaj Na",
-          "artists": [
-            "Ritviz"
-          ],
-          "genres": [
-            "hindi indie",
-            "desi",
-            "indian indie",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Rangi Saari",
-          "artists": [
-            "Kavita Seth",
-            "Kanishk Seth"
-          ],
-          "genres": [
-            "ghazal",
-            "hindi indie",
-            "hindi pop",
-            "sufi",
-            "desi",
-            "bollywood",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Choo Lo",
-          "artists": [
-            "The Local Train"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Dil Mere",
-          "artists": [
-            "The Local Train"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Zakir",
-          "artists": [
-            "NAALAYAK"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Husn",
-          "artists": [
-            "Anuv Jain"
-          ],
-          "genres": [
-            "hindi indie",
-            "indian indie",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Ambarsariya",
-          "artists": [
-            "Sona Mohapatra"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Masakali",
-          "artists": [
-            "Mohit Chauhan",
-            "A.R. Rahman",
-            "Prasoon Joshi"
-          ],
-          "genres": [
-            "tamil pop",
-            "hindi pop",
-            "sufi",
-            "desi",
-            "kollywood",
-            "bollywood"
-          ]
-        },
-        {
-          "name": "O Gujariya",
-          "artists": [
-            "Shefali Alvares",
-            "Nikhil D'Souza",
-            "Amit Trivedi"
-          ],
-          "genres": [
-            "hindi indie",
-            "hindi pop",
-            "gujarati garba",
-            "desi",
-            "bollywood",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Uff Teri Adaa",
-          "artists": [
-            "Shankar Mahadevan",
-            "Alyssa Mendonsa"
-          ],
-          "genres": [
-            "tamil dance",
-            "tamil pop",
-            "hindi pop",
-            "desi",
-            "bhajan",
-            "devotional",
-            "bollywood",
-            "marathi pop"
-          ]
-        },
-        {
-          "name": "Ek Main Aur Ekk Tu",
-          "artists": [
-            "Benny Dayal",
-            "Anushka Manchanda",
-            "Amit Trivedi"
-          ],
-          "genres": [
-            "gujarati garba",
-            "bollywood",
-            "desi",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Senorita",
-          "artists": [
-            "Farhan Akhtar",
-            "Hrithik Roshan",
-            "Abhay Deol",
-            "Maria Del Mar Fernandez"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Udd Gaye",
-          "artists": [
-            "Ritviz"
-          ],
-          "genres": [
-            "hindi indie",
-            "desi",
-            "indian indie",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Zaalima",
-          "artists": [
-            "Arijit Singh",
-            "Harshdeep Kaur"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop",
-            "bangla pop"
-          ]
-        },
-        {
-          "name": "Mast Magan",
-          "artists": [
-            "Arijit Singh",
-            "Chinmayi"
-          ],
-          "genres": [
-            "tamil pop",
-            "hindi pop",
-            "telugu pop",
-            "tollywood",
-            "desi",
-            "bangla pop",
-            "kollywood",
-            "bollywood",
-            "marathi pop"
-          ]
-        },
-        {
-          "name": "Pehle Bhi Main",
-          "artists": [
-            "Vishal Mishra",
-            "Raj Shekhar"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Dildaara (Stand By Me)",
-          "artists": [
-            "Vishal-Shekhar",
-            "Shafqat Amanat Ali",
-            "Kumaar"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Uff",
-          "artists": [
-            "Harshdeep Kaur",
-            "Benny Dayal"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Tum Se Hi",
-          "artists": [
-            "Pritam",
-            "Mohit Chauhan",
-            "Irshad Kamil"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop",
-            "sufi"
-          ]
-        },
-        {
-          "name": "Yeh Fitoor Mera",
-          "artists": [
-            "Amit Trivedi",
-            "Arijit Singh"
-          ],
-          "genres": [
-            "hindi pop",
-            "gujarati garba",
-            "desi",
-            "bangla pop",
-            "bollywood"
-          ]
-        },
-        {
-          "name": "Agar Tum Saath Ho",
-          "artists": [
-            "Alka Yagnik",
-            "Arijit Singh"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop",
-            "bangla pop"
-          ]
-        },
-        {
-          "name": "Mere Bina",
-          "artists": [
-            "Pritam",
-            "Nikhil D'Souza"
-          ],
-          "genres": [
-            "hindi indie",
-            "hindi pop",
-            "sufi",
-            "desi",
-            "bollywood",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Kho Gaye",
-          "artists": [
-            "Taaruk Raina",
-            "Mismatched - Cast"
-          ],
-          "genres": [
-            "ghazal",
-            "hindi pop",
-            "desi pop",
-            "hindi indie",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Isq Risk",
-          "artists": [
-            "Sohail Sen",
-            "Rahat Fateh Ali Khan",
-            "Irshad Kamil"
-          ],
-          "genres": [
-            "ghazal",
-            "hindi pop",
-            "sufi",
-            "desi",
-            "bollywood",
-            "qawwali"
-          ]
-        },
-        {
-          "name": "Ik Junoon (Paint It Red)",
-          "artists": [
-            "Vishal Dadlani"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Tum Mile",
-          "artists": [
-            "Pritam",
-            "Neeraj Shridhar"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop",
-            "sufi"
-          ]
-        },
-        {
-          "name": "Matargashti",
-          "artists": [
-            "Mohit Chauhan"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop",
-            "sufi"
-          ]
-        },
-        {
-          "name": "Ye Ishq Hai",
-          "artists": [
-            "Pritam",
-            "Shreya Ghoshal",
-            "Irshad Kamil"
-          ],
-          "genres": [
-            "hindi pop",
-            "sufi",
-            "kannada pop",
-            "desi",
-            "bangla pop",
-            "bollywood",
-            "marathi pop"
-          ]
-        },
-        {
-          "name": "Ainvayi Ainvayi",
-          "artists": [
-            "Salim–Sulaiman",
-            "Salim Merchant",
-            "Sunidhi Chauhan",
-            "Amitabh Bhattacharya"
-          ],
-          "genres": [
-            "hindi pop",
-            "sufi",
-            "desi",
-            "bollywood",
-            "qawwali"
-          ]
-        },
-        {
-          "name": "Pungi",
-          "artists": [
-            "Pritam",
-            "Mika Singh",
-            "Amitabh Bhattacharya",
-            "Nakash Aziz",
-            "Javed Jaffrey"
-          ],
-          "genres": [
-            "tamil dance",
-            "hindi pop",
-            "sufi",
-            "telugu pop",
-            "tollywood",
-            "desi",
-            "bollywood"
-          ]
-        },
-        {
-          "name": "London Thumakda",
-          "artists": [
-            "Labh Janjua",
-            "Sonu Kakkar",
-            "Neha Kakkar"
-          ],
-          "genres": [
-            "bhangra",
-            "hindi pop",
-            "gujarati garba",
-            "desi",
-            "desi pop",
-            "bollywood"
-          ]
-        },
-        {
-          "name": "Nachde Ne Saare",
-          "artists": [
-            "Jasleen Royal",
-            "Harshdeep Kaur",
-            "Siddharth Mahadevan",
-            "Aditya Sharma"
-          ],
-          "genres": [
-            "hindi indie",
-            "hindi pop",
-            "desi",
-            "gujarati pop",
-            "bollywood"
-          ]
-        },
-        {
-          "name": "Locha-E-Ulfat",
-          "artists": [
-            "Benny Dayal"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Daaru Desi",
-          "artists": [
-            "Benny Dayal",
-            "Shalmali Kholgade",
-            "Pritam"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop",
-            "sufi"
-          ]
-        },
-        {
-          "name": "Mera Mann Kehne Laga",
-          "artists": [
-            "Falak Shabbir"
-          ],
-          "genres": [
-            "bollywood"
-          ]
-        },
-        {
-          "name": "Jee Le Zaraa",
-          "artists": [
-            "Vishal Dadlani"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Nu Delhi",
-          "artists": [
-            "Bloodywood"
-          ],
-          "genres": [
-            "folk metal",
-            "metal"
-          ]
-        },
-        {
-          "name": "Iraaday",
-          "artists": [
-            "Rovalio",
-            "Abdul Hannan"
-          ],
-          "genres": [
-            "hindi indie",
-            "desi",
-            "indian indie",
-            "desi pop"
-          ]
-        },
-        {
-          "name": "Sau Aasmaan",
-          "artists": [
-            "Armaan Malik",
-            "Neeti Mohan",
-            "Kumaar"
-          ],
-          "genres": [
-            "telugu pop",
-            "hindi pop",
-            "kannada pop",
-            "tollywood",
-            "desi",
-            "bollywood"
-          ]
-        },
-        {
-          "name": "Sooraj Dooba Hain",
-          "artists": [
-            "Amaal Mallik",
-            "Arijit Singh",
-            "Aditi Singh Sharma",
-            "Kumaar"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop",
-            "bangla pop"
-          ]
-        },
-        {
-          "name": "Tum Hi Ho Bandhu",
-          "artists": [
-            "Neeraj Shridhar",
-            "Kavita Seth",
-            "Pritam"
-          ],
-          "genres": [
-            "ghazal",
-            "hindi indie",
-            "hindi pop",
-            "sufi",
-            "desi",
-            "bollywood",
-            "indian indie"
-          ]
-        },
-        {
-          "name": "Kabira",
-          "artists": [
-            "Pritam",
-            "Tochi Raina",
-            "Rekha Bhardwaj"
-          ],
-          "genres": [
-            "ghazal",
-            "hindi pop",
-            "sufi",
-            "desi",
-            "bollywood"
-          ]
-        },
-        {
-          "name": "Ilahi",
-          "artists": [
-            "Pritam",
-            "Arijit Singh"
-          ],
-          "genres": [
-            "hindi pop",
-            "sufi",
-            "bangla pop",
-            "desi",
-            "bollywood"
-          ]
-        },
-        {
-          "name": "Tum Ho Toh",
-          "artists": [
-            "Farhan Akhtar"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Choomantar",
-          "artists": [
-            "Sohail Sen",
-            "Benny Dayal",
-            "Aditi Singh Sharma",
-            "Irshad Kamil"
-          ],
-          "genres": [
-            "bollywood",
-            "desi",
-            "hindi pop"
-          ]
-        },
-        {
-          "name": "Haareya",
-          "artists": [
-            "Sachin-Jigar",
-            "Arijit Singh",
-            "Priya Saraiya"
-          ],
-          "genres": [
-            "hindi pop",
-            "gujarati garba",
-            "desi",
-            "bangla pop",
-            "gujarati pop",
-            "bollywood"
-          ]
-        }
-      ]
-    },
-    "whatever happens, happens.": {
-      "playlist_name": "whatever happens, happens.",
-      "playlist_id": "5k6OYmMK9J0pjVgSAd4YRG",
-      "track_count": 7,
-      "total_genres": 4,
-      "genre_counts": {
-        "neoclassical": 1,
-        "slowcore": 1,
-        "classical": 4,
-        "classical piano": 4
-      },
-      "top_genres": [
-        [
-          "classical",
-          4
-        ],
-        [
-          "classical piano",
-          4
-        ],
-        [
-          "neoclassical",
-          1
-        ],
-        [
-          "slowcore",
-          1
-        ]
-      ],
-      "artist_counts": {
-        "Patrick Watson": 2,
-        "Joep Beving": 1,
-        "Edvard Kravchuk": 1,
-        "i don't like mirrors": 1,
-        "Claude Debussy": 1,
-        "Martin Jones": 1,
-        "Frédéric Chopin": 1,
-        "Brigitte Engerer": 1
-      },
-      "top_artists": [
-        [
-          "Patrick Watson",
-          2
-        ],
-        [
-          "Joep Beving",
-          1
-        ],
-        [
-          "Edvard Kravchuk",
-          1
-        ],
-        [
-          "i don't like mirrors",
-          1
-        ],
-        [
-          "Claude Debussy",
-          1
-        ],
-        [
-          "Martin Jones",
-          1
-        ],
-        [
-          "Frédéric Chopin",
-          1
-        ],
-        [
-          "Brigitte Engerer",
-          1
-        ]
-      ],
-      "tracks": [
-        {
-          "name": "Ode to Vivian",
-          "artists": [
-            "Patrick Watson"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Lost With You",
-          "artists": [
-            "Patrick Watson"
-          ],
-          "genres": []
-        },
-        {
-          "name": "Beving: Ala",
-          "artists": [
-            "Joep Beving"
-          ],
-          "genres": [
-            "neoclassical"
-          ]
-        },
-        {
-          "name": "Momentary",
-          "artists": [
-            "Edvard Kravchuk"
-          ],
-          "genres": []
-        },
-        {
-          "name": "she's not real",
-          "artists": [
-            "i don't like mirrors"
-          ],
-          "genres": [
-            "slowcore"
-          ]
-        },
-        {
-          "name": "Clair de Lune, L. 32",
-          "artists": [
-            "Claude Debussy",
-            "Martin Jones"
-          ],
-          "genres": [
-            "classical",
-            "classical piano"
-          ]
-        },
-        {
-          "name": "3 Nocturnes, Op. 9: II. Andante",
-          "artists": [
-            "Frédéric Chopin",
-            "Brigitte Engerer"
-          ],
-          "genres": [
-            "classical",
-            "classical piano"
           ]
         }
       ]
     }
   },
   "global_genre_counts": {
-    "rap": 5,
-    "hip hop": 3,
-    "west coast hip hop": 2,
-    "emo rap": 3,
-    "indian indie": 58,
-    "hindi indie": 57,
-    "bhangra": 2,
-    "desi hip hop": 6,
-    "hindi hip hop": 4,
-    "k-pop": 5,
-    "indie": 38,
-    "lo-fi indie": 5,
-    "bedroom pop": 22,
-    "classic rock": 12,
-    "yacht rock": 2,
-    "soft rock": 2,
-    "indie rock": 69,
-    "shibuya-kei": 1,
-    "japanese indie": 8,
-    "shoegaze": 3,
-    "dream pop": 10,
-    "garage rock": 67,
-    "alternative rock": 76,
-    "anti-folk": 2,
+    "art pop": 1,
+    "pop": 3,
+    "bedroom pop": 1,
+    "dream pop": 3,
     "french house": 1,
     "electronic": 1,
     "electro": 1,
-    "j-pop": 18,
-    "j-r&b": 1,
-    "anime": 14,
-    "j-rock": 11,
-    "city pop": 3,
-    "kayokyoku": 2,
-    "musicals": 2,
-    "baroque pop": 5,
-    "neoclassical": 2,
-    "indie soul": 3,
-    "singer-songwriter": 3,
-    "lo-fi": 1,
-    "lo-fi beats": 1,
-    "jazz house": 1,
-    "lo-fi hip hop": 1,
-    "jazz beats": 1,
-    "rock": 25,
-    "hard rock": 5,
-    "aor": 2,
-    "metal": 3,
-    "heavy metal": 2,
-    "art rock": 13,
-    "blues rock": 4,
-    "modern blues": 2,
-    "rock and roll": 1,
-    "punk": 5,
-    "pop punk": 6,
-    "glam metal": 2,
-    "grunge": 6,
-    "post-grunge": 4,
-    "glam rock": 1,
-    "funk rock": 3,
-    "new wave": 4,
-    "post-punk": 3,
-    "gothic rock": 3,
-    "darkwave": 3,
-    "motown": 1,
-    "northern soul": 1,
-    "southern gothic": 1,
-    "psychedelic rock": 4,
-    "britpop": 3,
-    "madchester": 4,
-    "progressive rock": 2,
-    "stoner rock": 3,
-    "midwest emo": 9,
-    "nu metal": 3,
-    "alternative metal": 3,
-    "rap metal": 3,
-    "cold wave": 1,
-    "neo-psychedelic": 1,
-    "emo": 1,
-    "uk drill": 4,
-    "drill": 4,
-    "uk grime": 2,
-    "grime": 2,
-    "melodic rap": 1,
-    "folk rock": 2,
-    "folk": 3,
-    "roots rock": 2,
-    "country rock": 2,
-    "folk pop": 10,
-    "indie folk": 9,
-    "folk punk": 1,
+    "soft pop": 2,
     "edm": 1,
-    "jazz": 2,
-    "big band": 1,
-    "art pop": 1,
-    "indie pop": 1,
-    "surf rock": 1,
-    "alternative r&b": 2,
-    "visual kei": 1,
-    "vocaloid": 1,
-    "hindi pop": 108,
-    "desi": 100,
-    "bollywood": 112,
-    "sufi": 27,
-    "jangle pop": 1,
-    "kannada pop": 3,
-    "tollywood": 4,
-    "telugu pop": 4,
-    "desi pop": 5,
-    "ghazal": 5,
-    "tamil pop": 3,
-    "kollywood": 2,
-    "gujarati garba": 5,
-    "marathi pop": 3,
-    "devotional": 1,
+    "moombahton": 1,
+    "hindi pop": 14,
+    "bollywood": 15,
+    "desi": 9,
+    "sufi": 8,
+    "qawwali": 1,
     "bhajan": 1,
-    "tamil dance": 2,
-    "bangla pop": 8,
-    "qawwali": 2,
-    "gujarati pop": 3,
-    "folk metal": 1,
-    "slowcore": 1,
-    "classical": 4,
-    "classical piano": 4
+    "devotional": 1,
+    "indian indie": 1,
+    "hindi indie": 1,
+    "bangla pop": 1,
+    "tamil pop": 2,
+    "kollywood": 2,
+    "tollywood": 1,
+    "telugu pop": 1,
+    "marathi pop": 1,
+    "ghazal": 1,
+    "garage rock": 5,
+    "indie rock": 4,
+    "alternative rock": 7,
+    "indie": 3,
+    "lo-fi indie": 1,
+    "art rock": 3,
+    "neo-psychedelic": 1
   },
   "top_global_genres": [
     [
       "bollywood",
-      112
+      15
     ],
     [
       "hindi pop",
-      108
-    ],
-    [
-      "desi",
-      100
-    ],
-    [
-      "alternative rock",
-      76
-    ],
-    [
-      "indie rock",
-      69
-    ],
-    [
-      "garage rock",
-      67
-    ],
-    [
-      "indian indie",
-      58
-    ],
-    [
-      "hindi indie",
-      57
-    ],
-    [
-      "indie",
-      38
-    ],
-    [
-      "sufi",
-      27
-    ],
-    [
-      "rock",
-      25
-    ],
-    [
-      "bedroom pop",
-      22
-    ],
-    [
-      "j-pop",
-      18
-    ],
-    [
-      "anime",
       14
     ],
     [
-      "art rock",
-      13
+      "desi",
+      9
     ],
     [
-      "classic rock",
-      12
+      "sufi",
+      8
     ],
     [
-      "j-rock",
-      11
+      "alternative rock",
+      7
+    ],
+    [
+      "garage rock",
+      5
+    ],
+    [
+      "indie rock",
+      4
+    ],
+    [
+      "pop",
+      3
     ],
     [
       "dream pop",
-      10
+      3
     ],
     [
-      "folk pop",
-      10
+      "indie",
+      3
     ],
     [
-      "midwest emo",
-      9
+      "art rock",
+      3
+    ],
+    [
+      "soft pop",
+      2
+    ],
+    [
+      "tamil pop",
+      2
+    ],
+    [
+      "kollywood",
+      2
+    ],
+    [
+      "art pop",
+      1
+    ],
+    [
+      "bedroom pop",
+      1
+    ],
+    [
+      "french house",
+      1
+    ],
+    [
+      "electronic",
+      1
+    ],
+    [
+      "electro",
+      1
+    ],
+    [
+      "edm",
+      1
     ]
   ],
   "genre_playlist_mapping": {
-    "rap": [
+    "art pop": [
       {
-        "playlist": "gym",
-        "count": 2,
-        "percentage": 15.4
+        "playlist": "love/sad",
+        "count": 1,
+        "percentage": 6.7
+      }
+    ],
+    "pop": [
+      {
+        "playlist": "love/sad",
+        "count": 1,
+        "percentage": 6.7
       },
       {
-        "playlist": "shi to scare away the hoes",
+        "playlist": "pop",
+        "count": 2,
+        "percentage": 22.2
+      }
+    ],
+    "bedroom pop": [
+      {
+        "playlist": "love/sad",
+        "count": 1,
+        "percentage": 6.7
+      }
+    ],
+    "dream pop": [
+      {
+        "playlist": "love/sad",
         "count": 3,
-        "percentage": 21.4
+        "percentage": 20.0
       }
     ],
-    "hip hop": [
+    "french house": [
       {
-        "playlist": "gym",
+        "playlist": "pop",
+        "count": 1,
+        "percentage": 11.1
+      }
+    ],
+    "electronic": [
+      {
+        "playlist": "pop",
+        "count": 1,
+        "percentage": 11.1
+      }
+    ],
+    "electro": [
+      {
+        "playlist": "pop",
+        "count": 1,
+        "percentage": 11.1
+      }
+    ],
+    "soft pop": [
+      {
+        "playlist": "pop",
         "count": 2,
-        "percentage": 15.4
-      },
-      {
-        "playlist": "shi to scare away the hoes",
-        "count": 1,
-        "percentage": 7.1
+        "percentage": 22.2
       }
     ],
-    "west coast hip hop": [
+    "edm": [
       {
-        "playlist": "gym",
+        "playlist": "pop",
         "count": 1,
-        "percentage": 7.7
-      },
-      {
-        "playlist": "shi to scare away the hoes",
-        "count": 1,
-        "percentage": 7.1
+        "percentage": 11.1
       }
     ],
-    "emo rap": [
+    "moombahton": [
       {
-        "playlist": "gym",
+        "playlist": "pop",
         "count": 1,
-        "percentage": 7.7
-      },
+        "percentage": 11.1
+      }
+    ],
+    "hindi pop": [
       {
-        "playlist": "shi to scare away the hoes",
-        "count": 2,
+        "playlist": "Hindi",
+        "count": 14,
+        "percentage": 200.0
+      }
+    ],
+    "bollywood": [
+      {
+        "playlist": "Hindi",
+        "count": 15,
+        "percentage": 214.3
+      }
+    ],
+    "desi": [
+      {
+        "playlist": "Hindi",
+        "count": 9,
+        "percentage": 128.6
+      }
+    ],
+    "sufi": [
+      {
+        "playlist": "Hindi",
+        "count": 8,
+        "percentage": 114.3
+      }
+    ],
+    "qawwali": [
+      {
+        "playlist": "Hindi",
+        "count": 1,
+        "percentage": 14.3
+      }
+    ],
+    "bhajan": [
+      {
+        "playlist": "Hindi",
+        "count": 1,
+        "percentage": 14.3
+      }
+    ],
+    "devotional": [
+      {
+        "playlist": "Hindi",
+        "count": 1,
         "percentage": 14.3
       }
     ],
     "indian indie": [
       {
-        "playlist": "lifafa",
-        "count": 25,
-        "percentage": 119.0
-      },
-      {
-        "playlist": "butterflies",
+        "playlist": "Hindi",
         "count": 1,
-        "percentage": 5.6
-      },
-      {
-        "playlist": "listerine",
-        "count": 2,
-        "percentage": 5.9
-      },
-      {
-        "playlist": "kura",
-        "count": 4,
-        "percentage": 5.5
-      },
-      {
-        "playlist": "hindi",
-        "count": 26,
-        "percentage": 45.6
+        "percentage": 14.3
       }
     ],
     "hindi indie": [
       {
-        "playlist": "lifafa",
-        "count": 24,
-        "percentage": 114.3
-      },
-      {
-        "playlist": "butterflies",
-        "count": 1,
-        "percentage": 5.6
-      },
-      {
-        "playlist": "listerine",
-        "count": 2,
-        "percentage": 5.9
-      },
-      {
-        "playlist": "kura",
-        "count": 4,
-        "percentage": 5.5
-      },
-      {
-        "playlist": "hindi",
-        "count": 26,
-        "percentage": 45.6
-      }
-    ],
-    "bhangra": [
-      {
-        "playlist": "lifafa",
-        "count": 1,
-        "percentage": 4.8
-      },
-      {
-        "playlist": "hindi",
-        "count": 1,
-        "percentage": 1.8
-      }
-    ],
-    "desi hip hop": [
-      {
-        "playlist": "lifafa",
-        "count": 4,
-        "percentage": 19.0
-      },
-      {
-        "playlist": "hindi",
-        "count": 2,
-        "percentage": 3.5
-      }
-    ],
-    "hindi hip hop": [
-      {
-        "playlist": "lifafa",
-        "count": 2,
-        "percentage": 9.5
-      },
-      {
-        "playlist": "hindi",
-        "count": 2,
-        "percentage": 3.5
-      }
-    ],
-    "k-pop": [
-      {
-        "playlist": "gym",
-        "count": 1,
-        "percentage": 100.0
-      },
-      {
-        "playlist": "chinki shit",
-        "count": 4,
-        "percentage": 16.7
-      }
-    ],
-    "indie": [
-      {
-        "playlist": "petrichor",
-        "count": 4,
-        "percentage": 16.7
-      },
-      {
-        "playlist": "butterflies",
-        "count": 1,
-        "percentage": 5.6
-      },
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 15,
-        "percentage": 15.0
-      },
-      {
-        "playlist": "drowning",
-        "count": 3,
-        "percentage": 15.0
-      },
-      {
-        "playlist": "listerine",
-        "count": 8,
-        "percentage": 23.5
-      },
-      {
-        "playlist": "kura",
-        "count": 7,
-        "percentage": 9.6
-      }
-    ],
-    "lo-fi indie": [
-      {
-        "playlist": "petrichor",
-        "count": 2,
-        "percentage": 8.3
-      },
-      {
-        "playlist": "drowning",
-        "count": 2,
-        "percentage": 10.0
-      },
-      {
-        "playlist": "kura",
-        "count": 1,
-        "percentage": 1.4
-      }
-    ],
-    "bedroom pop": [
-      {
-        "playlist": "petrichor",
-        "count": 1,
-        "percentage": 4.2
-      },
-      {
-        "playlist": "take me to the zoo",
-        "count": 1,
-        "percentage": 4.3
-      },
-      {
-        "playlist": "shi to scare away the hoes",
-        "count": 1,
-        "percentage": 7.1
-      },
-      {
-        "playlist": "drowning",
-        "count": 2,
-        "percentage": 10.0
-      },
-      {
-        "playlist": "listerine",
-        "count": 4,
-        "percentage": 11.8
-      },
-      {
-        "playlist": "kura",
-        "count": 13,
-        "percentage": 17.8
-      }
-    ],
-    "classic rock": [
-      {
-        "playlist": "petrichor",
-        "count": 1,
-        "percentage": 4.2
-      },
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 9,
-        "percentage": 9.0
-      },
-      {
-        "playlist": "if we don't leave this town",
-        "count": 2,
-        "percentage": 8.3
-      }
-    ],
-    "yacht rock": [
-      {
-        "playlist": "petrichor",
-        "count": 1,
-        "percentage": 4.2
-      },
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 1,
-        "percentage": 1.0
-      }
-    ],
-    "soft rock": [
-      {
-        "playlist": "petrichor",
-        "count": 1,
-        "percentage": 4.2
-      },
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 1,
-        "percentage": 1.0
-      }
-    ],
-    "indie rock": [
-      {
-        "playlist": "petrichor",
-        "count": 1,
-        "percentage": 4.2
-      },
-      {
-        "playlist": "The Strokes Playlist",
-        "count": 35,
-        "percentage": 94.6
-      },
-      {
-        "playlist": "take me to the zoo",
-        "count": 3,
-        "percentage": 13.0
-      },
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 18,
-        "percentage": 18.0
-      },
-      {
-        "playlist": "drowning",
-        "count": 1,
-        "percentage": 5.0
-      },
-      {
-        "playlist": "listerine",
-        "count": 6,
-        "percentage": 17.6
-      },
-      {
-        "playlist": "kura",
-        "count": 5,
-        "percentage": 6.8
-      }
-    ],
-    "shibuya-kei": [
-      {
-        "playlist": "petrichor",
-        "count": 1,
-        "percentage": 4.2
-      }
-    ],
-    "japanese indie": [
-      {
-        "playlist": "petrichor",
-        "count": 1,
-        "percentage": 4.2
-      },
-      {
-        "playlist": "chinki shit",
-        "count": 7,
-        "percentage": 29.2
-      }
-    ],
-    "shoegaze": [
-      {
-        "playlist": "petrichor",
-        "count": 1,
-        "percentage": 4.2
-      },
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 2,
-        "percentage": 2.0
-      }
-    ],
-    "dream pop": [
-      {
-        "playlist": "petrichor",
-        "count": 1,
-        "percentage": 4.2
-      },
-      {
-        "playlist": "butterflies",
-        "count": 1,
-        "percentage": 5.6
-      },
-      {
-        "playlist": "drowning",
-        "count": 3,
-        "percentage": 15.0
-      },
-      {
-        "playlist": "kura",
-        "count": 4,
-        "percentage": 5.5
-      }
-    ],
-    "garage rock": [
-      {
-        "playlist": "The Strokes Playlist",
-        "count": 35,
-        "percentage": 94.6
-      },
-      {
-        "playlist": "butterflies",
-        "count": 1,
-        "percentage": 5.6
-      },
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 25,
-        "percentage": 25.0
-      },
-      {
-        "playlist": "drowning",
-        "count": 2,
-        "percentage": 10.0
-      },
-      {
-        "playlist": "kura",
-        "count": 4,
-        "percentage": 5.5
-      }
-    ],
-    "alternative rock": [
-      {
-        "playlist": "The Strokes Playlist",
-        "count": 35,
-        "percentage": 94.6
-      },
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 31,
-        "percentage": 31.0
-      },
-      {
-        "playlist": "drowning",
-        "count": 4,
-        "percentage": 20.0
-      },
-      {
-        "playlist": "start a fight club",
-        "count": 3,
-        "percentage": 37.5
-      },
-      {
-        "playlist": "escape 🚬",
-        "count": 1,
-        "percentage": 50.0
-      },
-      {
-        "playlist": "kura",
-        "count": 2,
-        "percentage": 2.7
-      }
-    ],
-    "anti-folk": [
-      {
-        "playlist": "The Strokes Playlist",
-        "count": 1,
-        "percentage": 2.7
-      },
-      {
-        "playlist": "if we don't leave this town",
-        "count": 1,
-        "percentage": 4.2
-      }
-    ],
-    "french house": [
-      {
-        "playlist": "The Strokes Playlist",
-        "count": 1,
-        "percentage": 2.7
-      }
-    ],
-    "electronic": [
-      {
-        "playlist": "The Strokes Playlist",
-        "count": 1,
-        "percentage": 2.7
-      }
-    ],
-    "electro": [
-      {
-        "playlist": "The Strokes Playlist",
-        "count": 1,
-        "percentage": 2.7
-      }
-    ],
-    "j-pop": [
-      {
-        "playlist": "chinki shit",
-        "count": 16,
-        "percentage": 66.7
-      }
-    ],
-    "j-r&b": [
-      {
-        "playlist": "chinki shit",
-        "count": 1,
-        "percentage": 4.2
-      }
-    ],
-    "anime": [
-      {
-        "playlist": "chinki shit",
-        "count": 11,
-        "percentage": 45.8
-      }
-    ],
-    "j-rock": [
-      {
-        "playlist": "chinki shit",
-        "count": 8,
-        "percentage": 33.3
-      }
-    ],
-    "city pop": [
-      {
-        "playlist": "chinki shit",
-        "count": 2,
-        "percentage": 8.3
-      },
-      {
-        "playlist": "take me to the zoo",
-        "count": 1,
-        "percentage": 4.3
-      }
-    ],
-    "kayokyoku": [
-      {
-        "playlist": "chinki shit",
-        "count": 2,
-        "percentage": 8.3
-      }
-    ],
-    "musicals": [
-      {
-        "playlist": "butterflies",
-        "count": 1,
-        "percentage": 5.6
-      },
-      {
-        "playlist": "kura",
-        "count": 1,
-        "percentage": 1.4
-      }
-    ],
-    "baroque pop": [
-      {
-        "playlist": "butterflies",
-        "count": 2,
-        "percentage": 11.1
-      },
-      {
-        "playlist": "if we don't leave this town",
-        "count": 2,
-        "percentage": 8.3
-      },
-      {
-        "playlist": "kura",
-        "count": 1,
-        "percentage": 1.4
-      }
-    ],
-    "neoclassical": [
-      {
-        "playlist": "butterflies",
-        "count": 1,
-        "percentage": 5.6
-      },
-      {
-        "playlist": "whatever happens, happens.",
+        "playlist": "Hindi",
         "count": 1,
         "percentage": 14.3
-      }
-    ],
-    "indie soul": [
-      {
-        "playlist": "take me to the zoo",
-        "count": 1,
-        "percentage": 4.3
-      },
-      {
-        "playlist": "listerine",
-        "count": 1,
-        "percentage": 2.9
-      },
-      {
-        "playlist": "kura",
-        "count": 1,
-        "percentage": 1.4
-      }
-    ],
-    "singer-songwriter": [
-      {
-        "playlist": "take me to the zoo",
-        "count": 1,
-        "percentage": 4.3
-      },
-      {
-        "playlist": "drowning",
-        "count": 2,
-        "percentage": 10.0
-      }
-    ],
-    "lo-fi": [
-      {
-        "playlist": "take me to the zoo",
-        "count": 1,
-        "percentage": 4.3
-      }
-    ],
-    "lo-fi beats": [
-      {
-        "playlist": "take me to the zoo",
-        "count": 1,
-        "percentage": 4.3
-      }
-    ],
-    "jazz house": [
-      {
-        "playlist": "take me to the zoo",
-        "count": 1,
-        "percentage": 4.3
-      }
-    ],
-    "lo-fi hip hop": [
-      {
-        "playlist": "take me to the zoo",
-        "count": 1,
-        "percentage": 4.3
-      }
-    ],
-    "jazz beats": [
-      {
-        "playlist": "take me to the zoo",
-        "count": 1,
-        "percentage": 4.3
-      }
-    ],
-    "rock": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 22,
-        "percentage": 22.0
-      },
-      {
-        "playlist": "if we don't leave this town",
-        "count": 1,
-        "percentage": 4.2
-      }
-    ],
-    "hard rock": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 5,
-        "percentage": 5.0
-      }
-    ],
-    "aor": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 2,
-        "percentage": 2.0
-      }
-    ],
-    "metal": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 2,
-        "percentage": 2.0
-      },
-      {
-        "playlist": "hindi",
-        "count": 1,
-        "percentage": 1.8
-      }
-    ],
-    "heavy metal": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 2,
-        "percentage": 2.0
-      }
-    ],
-    "art rock": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 6,
-        "percentage": 6.0
-      },
-      {
-        "playlist": "drowning",
-        "count": 3,
-        "percentage": 15.0
-      },
-      {
-        "playlist": "start a fight club",
-        "count": 2,
-        "percentage": 25.0
-      },
-      {
-        "playlist": "escape 🚬",
-        "count": 1,
-        "percentage": 50.0
-      },
-      {
-        "playlist": "kura",
-        "count": 1,
-        "percentage": 1.4
-      }
-    ],
-    "blues rock": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 3,
-        "percentage": 3.0
-      },
-      {
-        "playlist": "escape 🚬",
-        "count": 1,
-        "percentage": 50.0
-      }
-    ],
-    "modern blues": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 2,
-        "percentage": 2.0
-      }
-    ],
-    "rock and roll": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 1,
-        "percentage": 1.0
-      }
-    ],
-    "punk": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 5,
-        "percentage": 5.0
-      }
-    ],
-    "pop punk": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 6,
-        "percentage": 6.0
-      }
-    ],
-    "glam metal": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 2,
-        "percentage": 2.0
-      }
-    ],
-    "grunge": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 6,
-        "percentage": 6.0
-      }
-    ],
-    "post-grunge": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 4,
-        "percentage": 4.0
-      }
-    ],
-    "glam rock": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 1,
-        "percentage": 1.0
-      }
-    ],
-    "funk rock": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 3,
-        "percentage": 3.0
-      }
-    ],
-    "new wave": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 3,
-        "percentage": 3.0
-      },
-      {
-        "playlist": "kura",
-        "count": 1,
-        "percentage": 1.4
-      }
-    ],
-    "post-punk": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 3,
-        "percentage": 3.0
-      }
-    ],
-    "gothic rock": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 3,
-        "percentage": 3.0
-      }
-    ],
-    "darkwave": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 3,
-        "percentage": 3.0
-      }
-    ],
-    "motown": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 1,
-        "percentage": 1.0
-      }
-    ],
-    "northern soul": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 1,
-        "percentage": 1.0
-      }
-    ],
-    "southern gothic": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 1,
-        "percentage": 1.0
-      }
-    ],
-    "psychedelic rock": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 3,
-        "percentage": 3.0
-      },
-      {
-        "playlist": "if we don't leave this town",
-        "count": 1,
-        "percentage": 4.2
-      }
-    ],
-    "britpop": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 2,
-        "percentage": 2.0
-      },
-      {
-        "playlist": "kura",
-        "count": 1,
-        "percentage": 1.4
-      }
-    ],
-    "madchester": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 3,
-        "percentage": 3.0
-      },
-      {
-        "playlist": "kura",
-        "count": 1,
-        "percentage": 1.4
-      }
-    ],
-    "progressive rock": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 2,
-        "percentage": 2.0
-      }
-    ],
-    "stoner rock": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 3,
-        "percentage": 3.0
-      }
-    ],
-    "midwest emo": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 7,
-        "percentage": 7.0
-      },
-      {
-        "playlist": "kura",
-        "count": 2,
-        "percentage": 2.7
-      }
-    ],
-    "nu metal": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 1,
-        "percentage": 1.0
-      }
-    ],
-    "alternative metal": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 1,
-        "percentage": 1.0
-      }
-    ],
-    "rap metal": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 1,
-        "percentage": 1.0
-      }
-    ],
-    "cold wave": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 1,
-        "percentage": 1.0
-      }
-    ],
-    "neo-psychedelic": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 1,
-        "percentage": 1.0
-      }
-    ],
-    "emo": [
-      {
-        "playlist": "rock to deal with my anxiety",
-        "count": 1,
-        "percentage": 1.0
-      }
-    ],
-    "uk drill": [
-      {
-        "playlist": "shi to scare away the hoes",
-        "count": 4,
-        "percentage": 28.6
-      }
-    ],
-    "drill": [
-      {
-        "playlist": "shi to scare away the hoes",
-        "count": 4,
-        "percentage": 28.6
-      }
-    ],
-    "uk grime": [
-      {
-        "playlist": "shi to scare away the hoes",
-        "count": 2,
-        "percentage": 14.3
-      }
-    ],
-    "grime": [
-      {
-        "playlist": "shi to scare away the hoes",
-        "count": 2,
-        "percentage": 14.3
-      }
-    ],
-    "melodic rap": [
-      {
-        "playlist": "shi to scare away the hoes",
-        "count": 1,
-        "percentage": 7.1
-      }
-    ],
-    "folk rock": [
-      {
-        "playlist": "drowning",
-        "count": 2,
-        "percentage": 10.0
-      }
-    ],
-    "folk": [
-      {
-        "playlist": "drowning",
-        "count": 2,
-        "percentage": 10.0
-      },
-      {
-        "playlist": "if we don't leave this town",
-        "count": 1,
-        "percentage": 4.2
-      }
-    ],
-    "roots rock": [
-      {
-        "playlist": "drowning",
-        "count": 2,
-        "percentage": 10.0
-      }
-    ],
-    "country rock": [
-      {
-        "playlist": "drowning",
-        "count": 2,
-        "percentage": 10.0
-      }
-    ],
-    "folk pop": [
-      {
-        "playlist": "if we don't leave this town",
-        "count": 8,
-        "percentage": 33.3
-      },
-      {
-        "playlist": "listerine",
-        "count": 1,
-        "percentage": 2.9
-      },
-      {
-        "playlist": "kura",
-        "count": 1,
-        "percentage": 1.4
-      }
-    ],
-    "indie folk": [
-      {
-        "playlist": "if we don't leave this town",
-        "count": 8,
-        "percentage": 33.3
-      },
-      {
-        "playlist": "kura",
-        "count": 1,
-        "percentage": 1.4
-      }
-    ],
-    "folk punk": [
-      {
-        "playlist": "if we don't leave this town",
-        "count": 1,
-        "percentage": 4.2
-      }
-    ],
-    "edm": [
-      {
-        "playlist": "if we don't leave this town",
-        "count": 1,
-        "percentage": 4.2
-      }
-    ],
-    "jazz": [
-      {
-        "playlist": "start a fight club",
-        "count": 2,
-        "percentage": 25.0
-      }
-    ],
-    "big band": [
-      {
-        "playlist": "start a fight club",
-        "count": 1,
-        "percentage": 12.5
-      }
-    ],
-    "art pop": [
-      {
-        "playlist": "start a fight club",
-        "count": 1,
-        "percentage": 12.5
-      }
-    ],
-    "indie pop": [
-      {
-        "playlist": "listerine",
-        "count": 1,
-        "percentage": 2.9
-      }
-    ],
-    "surf rock": [
-      {
-        "playlist": "listerine",
-        "count": 1,
-        "percentage": 2.9
-      }
-    ],
-    "alternative r&b": [
-      {
-        "playlist": "listerine",
-        "count": 1,
-        "percentage": 2.9
-      },
-      {
-        "playlist": "kura",
-        "count": 1,
-        "percentage": 1.4
-      }
-    ],
-    "hindi pop": [
-      {
-        "playlist": "kura",
-        "count": 7,
-        "percentage": 9.6
-      },
-      {
-        "playlist": "hindi",
-        "count": 101,
-        "percentage": 177.2
-      }
-    ],
-    "desi": [
-      {
-        "playlist": "kura",
-        "count": 6,
-        "percentage": 8.2
-      },
-      {
-        "playlist": "hindi",
-        "count": 94,
-        "percentage": 164.9
-      }
-    ],
-    "bollywood": [
-      {
-        "playlist": "kura",
-        "count": 7,
-        "percentage": 9.6
-      },
-      {
-        "playlist": "hindi",
-        "count": 105,
-        "percentage": 184.2
-      }
-    ],
-    "sufi": [
-      {
-        "playlist": "kura",
-        "count": 3,
-        "percentage": 4.1
-      },
-      {
-        "playlist": "hindi",
-        "count": 24,
-        "percentage": 42.1
-      }
-    ],
-    "jangle pop": [
-      {
-        "playlist": "kura",
-        "count": 1,
-        "percentage": 1.4
-      }
-    ],
-    "kannada pop": [
-      {
-        "playlist": "hindi",
-        "count": 3,
-        "percentage": 5.3
-      }
-    ],
-    "tollywood": [
-      {
-        "playlist": "hindi",
-        "count": 4,
-        "percentage": 7.0
-      }
-    ],
-    "telugu pop": [
-      {
-        "playlist": "hindi",
-        "count": 4,
-        "percentage": 7.0
-      }
-    ],
-    "desi pop": [
-      {
-        "playlist": "hindi",
-        "count": 5,
-        "percentage": 8.8
-      }
-    ],
-    "ghazal": [
-      {
-        "playlist": "hindi",
-        "count": 5,
-        "percentage": 8.8
-      }
-    ],
-    "tamil pop": [
-      {
-        "playlist": "hindi",
-        "count": 3,
-        "percentage": 5.3
-      }
-    ],
-    "kollywood": [
-      {
-        "playlist": "hindi",
-        "count": 2,
-        "percentage": 3.5
-      }
-    ],
-    "gujarati garba": [
-      {
-        "playlist": "hindi",
-        "count": 5,
-        "percentage": 8.8
-      }
-    ],
-    "marathi pop": [
-      {
-        "playlist": "hindi",
-        "count": 3,
-        "percentage": 5.3
-      }
-    ],
-    "devotional": [
-      {
-        "playlist": "hindi",
-        "count": 1,
-        "percentage": 1.8
-      }
-    ],
-    "bhajan": [
-      {
-        "playlist": "hindi",
-        "count": 1,
-        "percentage": 1.8
-      }
-    ],
-    "tamil dance": [
-      {
-        "playlist": "hindi",
-        "count": 2,
-        "percentage": 3.5
       }
     ],
     "bangla pop": [
       {
-        "playlist": "hindi",
-        "count": 8,
-        "percentage": 14.0
-      }
-    ],
-    "qawwali": [
-      {
-        "playlist": "hindi",
-        "count": 2,
-        "percentage": 3.5
-      }
-    ],
-    "gujarati pop": [
-      {
-        "playlist": "hindi",
-        "count": 3,
-        "percentage": 5.3
-      }
-    ],
-    "folk metal": [
-      {
-        "playlist": "hindi",
-        "count": 1,
-        "percentage": 1.8
-      }
-    ],
-    "slowcore": [
-      {
-        "playlist": "whatever happens, happens.",
+        "playlist": "Hindi",
         "count": 1,
         "percentage": 14.3
       }
     ],
-    "classical": [
+    "tamil pop": [
       {
-        "playlist": "whatever happens, happens.",
-        "count": 4,
-        "percentage": 57.1
+        "playlist": "Hindi",
+        "count": 2,
+        "percentage": 28.6
       }
     ],
-    "classical piano": [
+    "kollywood": [
       {
-        "playlist": "whatever happens, happens.",
+        "playlist": "Hindi",
+        "count": 2,
+        "percentage": 28.6
+      }
+    ],
+    "tollywood": [
+      {
+        "playlist": "Hindi",
+        "count": 1,
+        "percentage": 14.3
+      }
+    ],
+    "telugu pop": [
+      {
+        "playlist": "Hindi",
+        "count": 1,
+        "percentage": 14.3
+      }
+    ],
+    "marathi pop": [
+      {
+        "playlist": "Hindi",
+        "count": 1,
+        "percentage": 14.3
+      }
+    ],
+    "ghazal": [
+      {
+        "playlist": "Hindi",
+        "count": 1,
+        "percentage": 14.3
+      }
+    ],
+    "garage rock": [
+      {
+        "playlist": "rock",
+        "count": 5,
+        "percentage": 50.0
+      }
+    ],
+    "indie rock": [
+      {
+        "playlist": "rock",
         "count": 4,
-        "percentage": 57.1
+        "percentage": 40.0
+      }
+    ],
+    "alternative rock": [
+      {
+        "playlist": "rock",
+        "count": 7,
+        "percentage": 70.0
+      }
+    ],
+    "indie": [
+      {
+        "playlist": "rock",
+        "count": 3,
+        "percentage": 30.0
+      }
+    ],
+    "lo-fi indie": [
+      {
+        "playlist": "rock",
+        "count": 1,
+        "percentage": 10.0
+      }
+    ],
+    "art rock": [
+      {
+        "playlist": "rock",
+        "count": 3,
+        "percentage": 30.0
+      }
+    ],
+    "neo-psychedelic": [
+      {
+        "playlist": "rock",
+        "count": 1,
+        "percentage": 10.0
       }
     ]
   },
   "mapping_suggestions": {
-    "rap": {
-      "suggested_playlist": "shi to scare away the hoes",
-      "confidence": 21.4,
-      "track_count": 3,
-      "reason": "21.4% of tracks in 'shi to scare away the hoes'"
-    },
-    "indian indie": {
-      "suggested_playlist": "lifafa",
-      "confidence": 119.0,
-      "track_count": 25,
-      "reason": "119.0% of tracks in 'lifafa'"
-    },
-    "hindi indie": {
-      "suggested_playlist": "lifafa",
-      "confidence": 114.3,
-      "track_count": 24,
-      "reason": "114.3% of tracks in 'lifafa'"
-    },
-    "k-pop": {
-      "suggested_playlist": "gym",
-      "confidence": 100.0,
-      "track_count": 1,
-      "reason": "100.0% of tracks in 'gym'"
-    },
-    "indie": {
-      "suggested_playlist": "listerine",
-      "confidence": 23.5,
-      "track_count": 8,
-      "reason": "23.5% of tracks in 'listerine'"
-    },
-    "bedroom pop": {
-      "suggested_playlist": "kura",
-      "confidence": 17.8,
-      "track_count": 13,
-      "reason": "17.8% of tracks in 'kura'"
-    },
-    "classic rock": {
-      "suggested_playlist": "rock to deal with my anxiety",
-      "confidence": 9.0,
-      "track_count": 9,
-      "reason": "9.0% of tracks in 'rock to deal with my anxiety'"
-    },
-    "indie rock": {
-      "suggested_playlist": "The Strokes Playlist",
-      "confidence": 94.6,
-      "track_count": 35,
-      "reason": "94.6% of tracks in 'The Strokes Playlist'"
-    },
-    "japanese indie": {
-      "suggested_playlist": "chinki shit",
-      "confidence": 29.2,
-      "track_count": 7,
-      "reason": "29.2% of tracks in 'chinki shit'"
-    },
-    "garage rock": {
-      "suggested_playlist": "The Strokes Playlist",
-      "confidence": 94.6,
-      "track_count": 35,
-      "reason": "94.6% of tracks in 'The Strokes Playlist'"
-    },
-    "alternative rock": {
-      "suggested_playlist": "The Strokes Playlist",
-      "confidence": 94.6,
-      "track_count": 35,
-      "reason": "94.6% of tracks in 'The Strokes Playlist'"
-    },
-    "j-pop": {
-      "suggested_playlist": "chinki shit",
-      "confidence": 66.7,
-      "track_count": 16,
-      "reason": "66.7% of tracks in 'chinki shit'"
-    },
-    "hard rock": {
-      "suggested_playlist": "rock to deal with my anxiety",
-      "confidence": 5.0,
-      "track_count": 5,
-      "reason": "5.0% of tracks in 'rock to deal with my anxiety'"
-    },
-    "art rock": {
-      "suggested_playlist": "escape 🚬",
-      "confidence": 50.0,
-      "track_count": 1,
-      "reason": "50.0% of tracks in 'escape 🚬'"
-    },
-    "blues rock": {
-      "suggested_playlist": "escape 🚬",
-      "confidence": 50.0,
-      "track_count": 1,
-      "reason": "50.0% of tracks in 'escape 🚬'"
-    },
-    "punk": {
-      "suggested_playlist": "rock to deal with my anxiety",
-      "confidence": 5.0,
-      "track_count": 5,
-      "reason": "5.0% of tracks in 'rock to deal with my anxiety'"
-    },
-    "pop punk": {
-      "suggested_playlist": "rock to deal with my anxiety",
-      "confidence": 6.0,
-      "track_count": 6,
-      "reason": "6.0% of tracks in 'rock to deal with my anxiety'"
-    },
-    "grunge": {
-      "suggested_playlist": "rock to deal with my anxiety",
-      "confidence": 6.0,
-      "track_count": 6,
-      "reason": "6.0% of tracks in 'rock to deal with my anxiety'"
-    },
-    "midwest emo": {
-      "suggested_playlist": "rock to deal with my anxiety",
-      "confidence": 7.0,
-      "track_count": 7,
-      "reason": "7.0% of tracks in 'rock to deal with my anxiety'"
-    },
-    "uk drill": {
-      "suggested_playlist": "shi to scare away the hoes",
-      "confidence": 28.6,
-      "track_count": 4,
-      "reason": "28.6% of tracks in 'shi to scare away the hoes'"
-    },
-    "drill": {
-      "suggested_playlist": "shi to scare away the hoes",
-      "confidence": 28.6,
-      "track_count": 4,
-      "reason": "28.6% of tracks in 'shi to scare away the hoes'"
-    },
-    "folk pop": {
-      "suggested_playlist": "if we don't leave this town",
-      "confidence": 33.3,
-      "track_count": 8,
-      "reason": "33.3% of tracks in 'if we don't leave this town'"
-    },
-    "indie folk": {
-      "suggested_playlist": "if we don't leave this town",
-      "confidence": 33.3,
-      "track_count": 8,
-      "reason": "33.3% of tracks in 'if we don't leave this town'"
-    },
-    "jazz": {
-      "suggested_playlist": "start a fight club",
-      "confidence": 25.0,
+    "pop": {
+      "suggested_playlist": "pop",
+      "confidence": 22.2,
       "track_count": 2,
-      "reason": "25.0% of tracks in 'start a fight club'"
+      "reason": "22.2% of tracks in 'pop'"
+    },
+    "dream pop": {
+      "suggested_playlist": "love/sad",
+      "confidence": 20.0,
+      "track_count": 3,
+      "reason": "20.0% of tracks in 'love/sad'"
+    },
+    "soft pop": {
+      "suggested_playlist": "pop",
+      "confidence": 22.2,
+      "track_count": 2,
+      "reason": "22.2% of tracks in 'pop'"
     },
     "hindi pop": {
-      "suggested_playlist": "hindi",
-      "confidence": 177.2,
-      "track_count": 101,
-      "reason": "177.2% of tracks in 'hindi'"
-    },
-    "desi": {
-      "suggested_playlist": "hindi",
-      "confidence": 164.9,
-      "track_count": 94,
-      "reason": "164.9% of tracks in 'hindi'"
+      "suggested_playlist": "Hindi",
+      "confidence": 200.0,
+      "track_count": 14,
+      "reason": "200.0% of tracks in 'Hindi'"
     },
     "bollywood": {
-      "suggested_playlist": "hindi",
-      "confidence": 184.2,
-      "track_count": 105,
-      "reason": "184.2% of tracks in 'hindi'"
+      "suggested_playlist": "Hindi",
+      "confidence": 214.3,
+      "track_count": 15,
+      "reason": "214.3% of tracks in 'Hindi'"
+    },
+    "desi": {
+      "suggested_playlist": "Hindi",
+      "confidence": 128.6,
+      "track_count": 9,
+      "reason": "128.6% of tracks in 'Hindi'"
     },
     "sufi": {
-      "suggested_playlist": "hindi",
-      "confidence": 42.1,
-      "track_count": 24,
-      "reason": "42.1% of tracks in 'hindi'"
-    },
-    "desi pop": {
-      "suggested_playlist": "hindi",
-      "confidence": 8.8,
-      "track_count": 5,
-      "reason": "8.8% of tracks in 'hindi'"
-    },
-    "ghazal": {
-      "suggested_playlist": "hindi",
-      "confidence": 8.8,
-      "track_count": 5,
-      "reason": "8.8% of tracks in 'hindi'"
-    },
-    "gujarati garba": {
-      "suggested_playlist": "hindi",
-      "confidence": 8.8,
-      "track_count": 5,
-      "reason": "8.8% of tracks in 'hindi'"
-    },
-    "bangla pop": {
-      "suggested_playlist": "hindi",
-      "confidence": 14.0,
+      "suggested_playlist": "Hindi",
+      "confidence": 114.3,
       "track_count": 8,
-      "reason": "14.0% of tracks in 'hindi'"
+      "reason": "114.3% of tracks in 'Hindi'"
     },
-    "classical": {
-      "suggested_playlist": "whatever happens, happens.",
-      "confidence": 57.1,
-      "track_count": 4,
-      "reason": "57.1% of tracks in 'whatever happens, happens.'"
+    "tamil pop": {
+      "suggested_playlist": "Hindi",
+      "confidence": 28.6,
+      "track_count": 2,
+      "reason": "28.6% of tracks in 'Hindi'"
     },
-    "classical piano": {
-      "suggested_playlist": "whatever happens, happens.",
-      "confidence": 57.1,
+    "kollywood": {
+      "suggested_playlist": "Hindi",
+      "confidence": 28.6,
+      "track_count": 2,
+      "reason": "28.6% of tracks in 'Hindi'"
+    },
+    "garage rock": {
+      "suggested_playlist": "rock",
+      "confidence": 50.0,
+      "track_count": 5,
+      "reason": "50.0% of tracks in 'rock'"
+    },
+    "indie rock": {
+      "suggested_playlist": "rock",
+      "confidence": 40.0,
       "track_count": 4,
-      "reason": "57.1% of tracks in 'whatever happens, happens.'"
+      "reason": "40.0% of tracks in 'rock'"
+    },
+    "alternative rock": {
+      "suggested_playlist": "rock",
+      "confidence": 70.0,
+      "track_count": 7,
+      "reason": "70.0% of tracks in 'rock'"
+    },
+    "indie": {
+      "suggested_playlist": "rock",
+      "confidence": 30.0,
+      "track_count": 3,
+      "reason": "30.0% of tracks in 'rock'"
+    },
+    "art rock": {
+      "suggested_playlist": "rock",
+      "confidence": 30.0,
+      "track_count": 3,
+      "reason": "30.0% of tracks in 'rock'"
     }
   },
-  "total_artists_cached": 315
+  "total_artists_cached": 44
 }

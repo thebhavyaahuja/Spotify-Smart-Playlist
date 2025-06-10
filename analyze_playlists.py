@@ -194,10 +194,6 @@ class PlaylistAnalyzer:
                 
             playlist_name = playlist.get("name", "Unknown")
             
-            # Skip playlists you don't own (optional - you can remove this filter)
-            if playlist.get("owner") != "bhavya":
-                print(f"⏭️  Skipping '{playlist_name}' (not owned by you)")
-                continue
             
             result = self.analyze_playlist(playlist)
             
