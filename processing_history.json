@@ -17742,10 +17742,62 @@
       "artists": [
         "The Strokes"
       ]
+    },
+    "29YePgOxuPLfU7uZKxKf6w": {
+      "processed_at": "2025-06-10T07:56:02.678444",
+      "action": "sorted",
+      "playlist_id": "2t5LVRWiXHmdZFuZ3UGaPv",
+      "reason": "Added to playlist (matched: bollywood → bollywood)",
+      "track_name": "Sawaar Loon",
+      "artists": [
+        "Monali Thakur",
+        "Amit Trivedi"
+      ]
+    },
+    "0qVNxbFE4EUV3mNFodXiln": {
+      "processed_at": "2025-06-10T07:56:04.043419",
+      "action": "sorted",
+      "playlist_id": "2t5LVRWiXHmdZFuZ3UGaPv",
+      "reason": "Added to playlist (matched: bollywood → bollywood)",
+      "track_name": "Saadi Galli Aaja",
+      "artists": [
+        "Ayushmann Khurrana",
+        "Neeti Mohan"
+      ]
+    },
+    "3WD2cic9S2VrGIb6h114MM": {
+      "processed_at": "2025-06-10T07:56:04.512842",
+      "action": "skipped",
+      "playlist_id": null,
+      "reason": "No genres found",
+      "track_name": "Mariposa",
+      "artists": [
+        "Peach Tree Rascals"
+      ]
+    },
+    "650fmCxQjHBlMy33GehFLc": {
+      "processed_at": "2025-06-10T07:56:05.654384",
+      "action": "sorted",
+      "playlist_id": "2dlpr7au0Q875XztrIpfHh",
+      "reason": "Added to playlist (matched: indie rock → indie)",
+      "track_name": "Twin Fantasy (Those Boys)",
+      "artists": [
+        "Car Seat Headrest"
+      ]
+    },
+    "5hS8s1Vf4CeSRBT1bTWa39": {
+      "processed_at": "2025-06-10T07:56:06.115042",
+      "action": "skipped",
+      "playlist_id": null,
+      "reason": "No genres found",
+      "track_name": "Roddy",
+      "artists": [
+        "Djo"
+      ]
     }
   },
-  "last_run": "2025-06-10T07:31:54.946694",
-  "total_runs": 2,
+  "last_run": "2025-06-10T07:56:06.315411",
+  "total_runs": 3,
   "start_date": null,
   "start_index": 1781
 }
